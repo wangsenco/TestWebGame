@@ -134,18 +134,18 @@
     <type fullname="WorldAppearance" preserve="all" />
     <type fullname="WorldCamBillboard" preserve="all" />
     <type fullname="Npu.AssetManager.AssetSelector" preserve="nothing" serialized="true" />
+    <type fullname="AudioClipSelector" preserve="nothing" serialized="true" />
+    <type fullname="AudioSourcePlayer/Clip" preserve="nothing" serialized="true" />
+    <type fullname="Sieunguoimay.UnityEvent_Int" preserve="nothing" serialized="true" />
     <type fullname="AnimationInstancing.AnimationEvent" preserve="nothing" serialized="true" />
     <type fullname="AnimationInstancing.AnimationInfo" preserve="nothing" serialized="true" />
     <type fullname="AnimationInstancing.AnimationTexture" preserve="nothing" serialized="true" />
     <type fullname="AnimationInstancing.ExtraBoneInfo" preserve="nothing" serialized="true" />
-    <type fullname="AudioClipSelector" preserve="nothing" serialized="true" />
-    <type fullname="AudioSourcePlayer/Clip" preserve="nothing" serialized="true" />
-    <type fullname="Sieunguoimay.UnityEvent_Int" preserve="nothing" serialized="true" />
-    <type fullname="Screw.BindingData" preserve="nothing" serialized="true" />
-    <type fullname="Screw.DataBinder/BindingTarget" preserve="nothing" serialized="true" />
     <type fullname="Screw.DataBinder/Member" preserve="nothing" serialized="true" />
     <type fullname="Screw.DataConverter" preserve="nothing" serialized="true" />
     <type fullname="Screw.Localizable/Target" preserve="nothing" serialized="true" />
+    <type fullname="Screw.BindingData" preserve="nothing" serialized="true" />
+    <type fullname="Screw.DataBinder/BindingTarget" preserve="nothing" serialized="true" />
     <type fullname="Screw.StateSwitcher/Binder" preserve="nothing" serialized="true" />
     <type fullname="Screw.StateSwitcher/State" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.Pathing.LinearPath" preserve="nothing" serialized="true" />
@@ -156,22 +156,22 @@
     <type fullname="WilliamExtra.MonoAnim.AMonoTweenAnim/ConfigTween" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.Pathing.SimplePathMover/PathMoveParams" preserve="nothing" serialized="true" />
     <type fullname="Bool3" preserve="nothing" serialized="true" />
+    <type fullname="Sieunguoimay.UnityEvent_Bool" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.ActionSequence.ActionSequencee/UEvents" preserve="nothing" serialized="true" />
     <type fullname="ConstructionPartView/ConfigEvents" preserve="nothing" serialized="true" />
     <type fullname="ConstructionView/ConfigEvents" preserve="nothing" serialized="true" />
     <type fullname="FloatEvent" preserve="nothing" serialized="true" />
-    <type fullname="Sieunguoimay.UnityEvent_Bool" preserve="nothing" serialized="true" />
-    <type fullname="WilliamExtra.ActionSequence.ActionSequencee/UEvents" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.AnimationClipEventTeller/FloatEvent" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.AnimationClipEventTeller/IntEvent" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.AnimationClipEventTeller/ObjectEvent" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.AnimationClipEventTeller/StringEvent" preserve="nothing" serialized="true" />
-    <type fullname="WilliamExtra.BoolEvent" preserve="nothing" serialized="true" />
+    <type fullname="WorkerAvatarRnd/Entry" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.DataArchitecture.ReflectionTarget" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.OnUpdateStage/UpdateEvent" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.RangeFloat" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.BoolEvent" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.StringEvent" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.StringTrigger/ConfigEvents" preserve="nothing" serialized="true" />
-    <type fullname="WorkerAvatarRnd/Entry" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.BoolTrigger/ConfigEvents" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.TransformChangePasser/BoolEvent" preserve="nothing" serialized="true" />
   </assembly>
