@@ -7,7 +7,7 @@
   </head>
   <body style="text-align: center; padding: 0; border: 0; margin: 0;">
     <canvas id="unity-canvas" width=960 height=600 style="width: 960px; height: 600px; background: #000000"></canvas>
-    <script src="Build/WebGLBuild_new.loader.js"></script>
+    <script src="Build/webgl.loader.js"></script>
     <script>
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
         // Mobile device style: fill the whole browser client area with the game canvas:
@@ -25,13 +25,13 @@
       }
 
       createUnityInstance(document.querySelector("#unity-canvas"), {
-        dataUrl: "Build/WebGLBuild_new.data",
-        frameworkUrl: "Build/WebGLBuild_new.framework.js",
-        codeUrl: "Build/WebGLBuild_new.wasm",
+        dataUrl: "Build/webgl.data",
+        frameworkUrl: "Build/webgl.framework.js",
+        codeUrl: "Build/webgl.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "No PowerUp",
         productName: "我要当老板",
-        productVersion: "1.0.0",
+        productVersion: "1.2.0",
         // matchWebGLToCanvasSize: false, // Uncomment this to separately control WebGL canvas render size and DOM element size.
         // devicePixelRatio: 1, // Uncomment this to override low DPI rendering on high DPI displays.
       });
