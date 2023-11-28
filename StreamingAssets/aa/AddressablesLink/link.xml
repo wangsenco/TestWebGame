@@ -16,6 +16,7 @@
     <type fullname="AliveSupervisor" preserve="all" />
     <type fullname="AllSellingStoragesExceedCapacityThreshold" preserve="all" />
     <type fullname="ANewpassManagerView" preserve="all" />
+    <type fullname="AnimationInstancing.AnimationData" preserve="all" />
     <type fullname="AnimationInstancing.AnimationInstancing" preserve="all" />
     <type fullname="AnimationInstancing.SawAnimate" preserve="all" />
     <type fullname="AnimRandomizer" preserve="all" />
@@ -1602,6 +1603,9 @@
     <type fullname="AMissionPlan/DescExtra" preserve="nothing" serialized="true" />
     <type fullname="AStorageCapacityModifier/ModifierEvent" preserve="nothing" serialized="true" />
     <type fullname="ActionTrigger/TriggerChain" preserve="nothing" serialized="true" />
+    <type fullname="AnimationInstancing.AnimationInfo" preserve="nothing" serialized="true" />
+    <type fullname="AnimationInstancing.AnimationTexture" preserve="nothing" serialized="true" />
+    <type fullname="AnimationInstancing.ExtraBoneInfo" preserve="nothing" serialized="true" />
     <type fullname="AudioClipSelector" preserve="nothing" serialized="true" />
     <type fullname="AudioSourcePlayer/Clip" preserve="nothing" serialized="true" />
     <type fullname="BlueprintCollectionConfig" preserve="nothing" serialized="true" />
@@ -1891,6 +1895,7 @@
     <type fullname="WilliamExtra.UI.UITabListener/StringEvent" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.Vector2Event" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.Vector3Event" preserve="nothing" serialized="true" />
+    <type fullname="AnimationInstancing.AnimationEvent" preserve="nothing" serialized="true" />
     <type fullname="WorkerAvatarRnd/Entry" preserve="nothing" serialized="true" />
     <type fullname="ConstructionPartView/ConfigEvents" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.AnimationClipEventTeller/FloatEvent" preserve="nothing" serialized="true" />
