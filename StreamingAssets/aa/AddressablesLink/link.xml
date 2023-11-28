@@ -1,18 +1,172 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="AnimationEvent" preserve="all" />
-    <type fullname="AnimationInstancing.AnimationData" preserve="all" />
+    <type fullname="ActionContextFilterCSO" preserve="all" />
+    <type fullname="ActionFilterCSO" preserve="all" />
+    <type fullname="ActionIncrementMissionPlan" preserve="all" />
+    <type fullname="ActionReceiverCSO" preserve="all" />
+    <type fullname="ActionTrigger" preserve="all" />
+    <type fullname="ActionValueFilterCSO" preserve="all" />
+    <type fullname="ActivenessFollower" preserve="all" />
+    <type fullname="ACurrentWorldView" preserve="all" />
+    <type fullname="AddToDesktopButton" preserve="all" />
+    <type fullname="AdFreeRangeDoubleCSO" preserve="all" />
+    <type fullname="ADTicket.TicketOfferEventTrigger" preserve="all" />
+    <type fullname="AdvancedPreserveAspectSprite" preserve="all" />
+    <type fullname="AlertPopup" preserve="all" />
+    <type fullname="AliveSupervisor" preserve="all" />
+    <type fullname="AllSellingStoragesExceedCapacityThreshold" preserve="all" />
+    <type fullname="ANewpassManagerView" preserve="all" />
     <type fullname="AnimationInstancing.AnimationInstancing" preserve="all" />
     <type fullname="AnimationInstancing.SawAnimate" preserve="all" />
     <type fullname="AnimRandomizer" preserve="all" />
+    <type fullname="AnyMachineUnderSpeedThreshold" preserve="all" />
+    <type fullname="AppTrackingPopup" preserve="all" />
+    <type fullname="AssetInitializer" preserve="all" />
+    <type fullname="ASSupervisorRandomizer" preserve="all" />
+    <type fullname="AttachedLidChestAnimator" preserve="all" />
+    <type fullname="AudioSourceManager" preserve="all" />
     <type fullname="AudioSourcePlayer" preserve="all" />
+    <type fullname="AudioVariantAuto" preserve="all" />
+    <type fullname="AuthDataProvider" preserve="all" />
+    <type fullname="AuthenticityVerifier" preserve="all" />
+    <type fullname="AvatarClassifier" preserve="all" />
+    <type fullname="AvatarItemSorter" preserve="all" />
+    <type fullname="BackgroundLooper" preserve="all" />
+    <type fullname="BackgroundMover" preserve="all" />
+    <type fullname="BezierPathMover" preserve="all" />
+    <type fullname="BindedParam" preserve="all" />
+    <type fullname="BizUpgradePopup" preserve="all" />
+    <type fullname="BizUpgradeViews" preserve="all" />
     <type fullname="BladePositioner" preserve="all" />
+    <type fullname="BlinkingLight" preserve="all" />
+    <type fullname="BlockUI" preserve="all" />
+    <type fullname="BlockUIToggler" preserve="all" />
+    <type fullname="Blueprint" preserve="all" />
+    <type fullname="BlueprintAutoListView" preserve="all" />
+    <type fullname="BlueprintManager" preserve="all" />
+    <type fullname="BlueprintPieceList" preserve="all" />
+    <type fullname="BlueprintPieceView" preserve="all" />
+    <type fullname="BlueprintPopup" preserve="all" />
+    <type fullname="BlueprintsNotification" preserve="all" />
+    <type fullname="BlueprintView" preserve="all" />
+    <type fullname="Board" preserve="all" />
+    <type fullname="BoardGame.RollDice.AutoRollSummaryItem" preserve="all" />
+    <type fullname="BoardGame.RollDice.AutoRollSummaryItemListView" preserve="all" />
+    <type fullname="BoardGame.RollDice.BaseMoveBoardCSOView" preserve="all" />
+    <type fullname="BoardGame.RollDice.BaseRollDiceBoardGameView" preserve="all" />
+    <type fullname="BoardGame.RollDice.BoardManagerCSO" preserve="all" />
+    <type fullname="BoardGame.RollDice.BoardManagerCSOView" preserve="all" />
+    <type fullname="BoardGame.RollDice.DiceAnimation" preserve="all" />
+    <type fullname="BoardGame.RollDice.DiceConfig" preserve="all" />
+    <type fullname="BoardGame.RollDice.DiceValueCalculator" preserve="all" />
+    <type fullname="BoardGame.RollDice.DiceValueCalculator_WinterDefaultBoard" preserve="all" />
+    <type fullname="BoardGame.RollDice.DiceVariableDoubleCSO" preserve="all" />
+    <type fullname="BoardGame.RollDice.DiceVariableDoubleCSOListView" preserve="all" />
+    <type fullname="BoardGame.RollDice.DiceVariableDoubleCSOView_6Side" preserve="all" />
+    <type fullname="BoardGame.RollDice.JackpotPointCSO" preserve="all" />
+    <type fullname="BoardGame.RollDice.JackpotPointCSOView" preserve="all" />
+    <type fullname="BoardGame.RollDice.MoveBoardActionCSO_Common" preserve="all" />
+    <type fullname="BoardGame.RollDice.MoveBoardCSO" preserve="all" />
+    <type fullname="BoardGame.RollDice.MoveBoardCSOListView" preserve="all" />
+    <type fullname="BoardGame.RollDice.MoveBoardCSOView" preserve="all" />
+    <type fullname="BoardGame.RollDice.MoveCellCSO" preserve="all" />
+    <type fullname="BoardGame.RollDice.MoveCellCSOListView" preserve="all" />
+    <type fullname="BoardGame.RollDice.MoveCellCSOView" preserve="all" />
+    <type fullname="BoardGame.RollDice.OperatorCSO_RollDice" preserve="all" />
+    <type fullname="BoardGame.RollDice.OperatorCSOView_RollDice" preserve="all" />
+    <type fullname="BoardGame.RollDice.PostRollCSO_Action" preserve="all" />
+    <type fullname="BoardGame.RollDice.PostRollCSO_Auto" preserve="all" />
+    <type fullname="BoardGame.RollDice.PostRollCSO_ChangeBoard" preserve="all" />
+    <type fullname="BoardGame.RollDice.PostRollCSO_DoubleDice" preserve="all" />
+    <type fullname="BoardGame.RollDice.PurchaseRollCSO" preserve="all" />
+    <type fullname="BoardGame.RollDice.PurchaseRollCSO_Dice" preserve="all" />
+    <type fullname="BoardGame.RollDice.PurchaseRollCSO_RV" preserve="all" />
+    <type fullname="BoardGame.RollDice.RewardSummaryCSO" preserve="all" />
+    <type fullname="BoardGame.RollDice.RewardSummaryCSOView" preserve="all" />
+    <type fullname="BoardGame.RollDice.RollDiceAutoSummaryPopup" preserve="all" />
+    <type fullname="BoardGame.RollDice.RollDiceBoardGameAnalyticsCSO_WinterLTE" preserve="all" />
+    <type fullname="BoardGame.RollDice.RollDiceBoardGameManager" preserve="all" />
+    <type fullname="BoardGame.RollDice.RollDiceBoardGamePopup" preserve="all" />
+    <type fullname="BoardGame.RollDice.RollDiceBoardGameView" preserve="all" />
+    <type fullname="BoardGame.RollDice.RollDiceBoardGameView_BoardNotice" preserve="all" />
+    <type fullname="BoardGame.RollDice.StageCSO_MoveBoard" preserve="all" />
+    <type fullname="BoardGame.RollDice.StageCSO_PostRoll" preserve="all" />
+    <type fullname="BoardGame.RollDice.StageCSO_PurchasingRoll" preserve="all" />
+    <type fullname="BoardGame.RollDice.StageCSO_Roll" preserve="all" />
+    <type fullname="BoardGame.RollDice.StepByStepDiceMoveChainCSO" preserve="all" />
+    <type fullname="BoolsCombiner" preserve="all" />
+    <type fullname="Boost" preserve="all" />
+    <type fullname="BoostActivateCSO" preserve="all" />
+    <type fullname="BoostActiveCSO" preserve="all" />
+    <type fullname="BoostActiveTimeCSO" preserve="all" />
+    <type fullname="BoostActiveTimeCSOView" preserve="all" />
+    <type fullname="BoostsManager" preserve="all" />
+    <type fullname="BoostValueCSO" preserve="all" />
+    <type fullname="Bootstrap" preserve="all" />
+    <type fullname="BridgeStorage" preserve="all" />
     <type fullname="BundleMachineGen_01" preserve="all" />
+    <type fullname="BundlePackage" preserve="all" />
+    <type fullname="CameraBlender" preserve="all" />
+    <type fullname="CameraModeView" preserve="all" />
+    <type fullname="CancelBuildNoticePopup" preserve="all" />
+    <type fullname="CanvasLayoutMisc" preserve="all" />
+    <type fullname="CardCollectAnim" preserve="all" />
+    <type fullname="CardProbabilityView" preserve="all" />
     <type fullname="CarParkRandomizer" preserve="all" />
     <type fullname="CarryingWorker" preserve="all" />
-    <type fullname="ChestAnimator" preserve="all" />
+    <type fullname="ChangeTransformParent" preserve="all" />
+    <type fullname="ChestAvatar" preserve="all" />
+    <type fullname="ChestAvatarWithLidAttached" preserve="all" />
+    <type fullname="ChestCSO" preserve="all" />
+    <type fullname="ChestCSOView" preserve="all" />
+    <type fullname="ChestInfo" preserve="all" />
+    <type fullname="ChestInfoButton" preserve="all" />
+    <type fullname="ChestOpener" preserve="all" />
+    <type fullname="ChestOpenScreen" preserve="all" />
+    <type fullname="ChestRewardAnimator" preserve="all" />
+    <type fullname="ChestRewardGeneratingConfig" preserve="all" />
+    <type fullname="ChestRewardGeneratorCSO_Common" preserve="all" />
+    <type fullname="ChestRewardGeneratorCSO_Newpass" preserve="all" />
+    <type fullname="ChestRewardGeneratorCSO_PremiumTreeChest" preserve="all" />
+    <type fullname="ChestRewardGeneratorCSO_RareTreeChest" preserve="all" />
+    <type fullname="ChestRewardGeneratorCSOView_Newpass" preserve="all" />
+    <type fullname="ChestRewardView" preserve="all" />
+    <type fullname="ChestRVCSO" preserve="all" />
+    <type fullname="ChestRVInjector" preserve="all" />
+    <type fullname="ChestRVView" preserve="all" />
+    <type fullname="ChestUI" preserve="all" />
+    <type fullname="ChestView" preserve="all" />
+    <type fullname="ChestVisualConfigCSO" preserve="all" />
+    <type fullname="ChestVisualConfigCSOView" preserve="all" />
     <type fullname="Chopper" preserve="all" />
+    <type fullname="ChopperGroup" preserve="all" />
+    <type fullname="ChopperGroupData" preserve="all" />
+    <type fullname="CIAPContainer" preserve="all" />
+    <type fullname="CIAPProduct" preserve="all" />
+    <type fullname="CIAPProductTargetOffer" preserve="all" />
+    <type fullname="CIAPProductTargetProduct" preserve="all" />
+    <type fullname="CIAPProductTargetProductView" preserve="all" />
+    <type fullname="CIAPProductView" preserve="all" />
+    <type fullname="CIAPPurchaseListener" preserve="all" />
+    <type fullname="CollectorsManager" preserve="all" />
+    <type fullname="CommonProp" preserve="all" />
+    <type fullname="CommonRewardCSOSpecialTag" preserve="all" />
     <type fullname="CommonStorage" preserve="all" />
+    <type fullname="CommonUI" preserve="all" />
+    <type fullname="CommonUI2" preserve="all" />
+    <type fullname="CommonUIFXCaller" preserve="all" />
+    <type fullname="CommonUIValues" preserve="all" />
+    <type fullname="CommonUIValues_Scriptable" preserve="all" />
+    <type fullname="CommonUpgradable" preserve="all" />
+    <type fullname="CompensationPopup" preserve="all" />
+    <type fullname="CompleteTutorialPhaseActionCSO" preserve="all" />
+    <type fullname="ComposedSOViewChildrenSpawner" preserve="all" />
+    <type fullname="ComposedSOViewInjector" preserve="all" />
+    <type fullname="ConditionCSO_DecorLevel" preserve="all" />
+    <type fullname="ConditionCSO_HolidayShopTierAvailable" preserve="all" />
+    <type fullname="ConditionCSOView_DecorLevel" preserve="all" />
+    <type fullname="ConnectionPopup" preserve="all" />
+    <type fullname="ConstantParamCSO" preserve="all" />
     <type fullname="Constructing" preserve="all" />
     <type fullname="ConstructingPainter" preserve="all" />
     <type fullname="ConstructingPart" preserve="all" />
@@ -20,107 +174,1358 @@
     <type fullname="ConstructingPieceRemote" preserve="all" />
     <type fullname="ConstructingWorkerGroup" preserve="all" />
     <type fullname="ConstructingWorkerSlot" preserve="all" />
+    <type fullname="ConstructionForkliftTapper" preserve="all" />
+    <type fullname="ConstructionMainPopup" preserve="all" />
+    <type fullname="ConstructionManager" preserve="all" />
+    <type fullname="ConstructionManagerView" preserve="all" />
+    <type fullname="ConstructionNotification" preserve="all" />
+    <type fullname="ConstructionOrderButton" preserve="all" />
+    <type fullname="ConstructionOrdersSection" preserve="all" />
+    <type fullname="ConstructionOrderView" preserve="all" />
     <type fullname="ConstructionPartView" preserve="all" />
+    <type fullname="ConstructionPlatform" preserve="all" />
+    <type fullname="ConstructionResourceView" preserve="all" />
+    <type fullname="ConstructionSection" preserve="all" />
+    <type fullname="ConstructionShipper" preserve="all" />
+    <type fullname="ConstructionSite" preserve="all" />
+    <type fullname="ConstructionSitePopup" preserve="all" />
+    <type fullname="ConstructionSiteStage" preserve="all" />
     <type fullname="ConstructionSiteStageView" preserve="all" />
     <type fullname="ConstructionSiteView" preserve="all" />
     <type fullname="ConstructionSiteVisual" preserve="all" />
     <type fullname="ConstructionSiteWorker" preserve="all" />
+    <type fullname="ConstructionSlot" preserve="all" />
+    <type fullname="ConstructionStorageGroup" preserve="all" />
+    <type fullname="ConstructionStorageGroupData" preserve="all" />
+    <type fullname="ConstructionSupervisor" preserve="all" />
+    <type fullname="ConstructionsView" preserve="all" />
     <type fullname="ConstructionTrain" preserve="all" />
     <type fullname="ConstructionView" preserve="all" />
+    <type fullname="ConstructionView_UI" preserve="all" />
+    <type fullname="CooldownUntilTimeCSO" preserve="all" />
+    <type fullname="CooldownUntilTimeCSOView" preserve="all" />
+    <type fullname="CostCSOListView_001" preserve="all" />
+    <type fullname="CrossRectPreview" preserve="all" />
+    <type fullname="CurrencyHandler" preserve="all" />
+    <type fullname="CurrencyHeaderItem" preserve="all" />
+    <type fullname="CurrencyHeaderNeeder" preserve="all" />
+    <type fullname="CurrencyHeaderReputation" preserve="all" />
+    <type fullname="CurrencyTypeFilterCSO" preserve="all" />
+    <type fullname="CurrentWorldCurrencyView" preserve="all" />
+    <type fullname="CurrentWorldInjector" preserve="all" />
+    <type fullname="Customer" preserve="all" />
+    <type fullname="CustomerConfig" preserve="all" />
     <type fullname="CuttingTrace" preserve="all" />
+    <type fullname="DailyCountTimerTriggerCSO" preserve="all" />
+    <type fullname="DailyLoginActionReceiverCSO" preserve="all" />
+    <type fullname="DebugAutoList.DebugAutoListMono" preserve="all" />
+    <type fullname="DebugAutoList.DebugGroupView" preserve="all" />
+    <type fullname="DebugAutoList.DebugItemView" preserve="all" />
+    <type fullname="DebugAutoList.DebugItemView_Method" preserve="all" />
+    <type fullname="DebugCanvas" preserve="all" />
+    <type fullname="DebugInvokePanel" preserve="all" />
+    <type fullname="DebugPanel" preserve="all" />
+    <type fullname="DebugPanel_AmountHelperTool" preserve="all" />
+    <type fullname="DebugPanel_ChestTools" preserve="all" />
+    <type fullname="DebugPanel_CurrencyTools" preserve="all" />
+    <type fullname="DebugPanel_DropdownHelperTool" preserve="all" />
+    <type fullname="DebugPanel_Easter2023" preserve="all" />
+    <type fullname="DebugPanel_FactoryOffersTools" preserve="all" />
+    <type fullname="DebugPanel_HouseTools" preserve="all" />
+    <type fullname="DebugPanel_IAP" preserve="all" />
+    <type fullname="DebugPanel_InternetTools" preserve="all" />
+    <type fullname="DebugPanel_LeaderboardTools" preserve="all" />
+    <type fullname="DebugPanel_ManagerTools" preserve="all" />
+    <type fullname="DebugPanel_NewpassTools" preserve="all" />
+    <type fullname="DebugPanel_ResourceTools" preserve="all" />
+    <type fullname="DebugPanel_SpecialDelivery" preserve="all" />
+    <type fullname="DebugPanel_StorageTools" preserve="all" />
+    <type fullname="DebugPanel_Time" preserve="all" />
+    <type fullname="DebugPanel_TreeTools" preserve="all" />
+    <type fullname="DebugPanel_Village" preserve="all" />
+    <type fullname="DebugValueDataEntryView" preserve="all" />
+    <type fullname="DebugValueDataSetView" preserve="all" />
+    <type fullname="DebugValueDataView" preserve="all" />
+    <type fullname="DebugValueViewPanel" preserve="all" />
+    <type fullname="DecorHatSetter" preserve="all" />
+    <type fullname="DecorVariantOverriderByTheme" preserve="all" />
+    <type fullname="DeeplinkController" preserve="all" />
+    <type fullname="DefaultShopItemVisualConfig" preserve="all" />
+    <type fullname="DeleteAccountPendingPopup" preserve="all" />
+    <type fullname="DeleteAccountPopup" preserve="all" />
+    <type fullname="DeleteAccountSuccessPopup" preserve="all" />
+    <type fullname="DG.Tweening.DOTweenAnimation" preserve="all" />
+    <type fullname="DiamondExchangerView" preserve="all" />
+    <type fullname="DiamondForBizPointView" preserve="all" />
+    <type fullname="DisableForBuild" preserve="all" />
     <type fullname="DitzelGames.FastIK.FastIKFabric" preserve="all" />
+    <type fullname="DraggableUIRectPositioner" preserve="all" />
+    <type fullname="DynamicFactorySummaryCSO" preserve="all" />
+    <type fullname="DynamicFactorySummaryCSOView" preserve="all" />
+    <type fullname="DynamicFactorySummaryLineCSO" preserve="all" />
+    <type fullname="DynamicFactorySummaryLineCSOView" preserve="all" />
     <type fullname="DynamicHeightStorage" preserve="all" />
+    <type fullname="Easter2023AnalyticsCSO" preserve="all" />
+    <type fullname="Easter2023CIAPProductBannerPrefabGetter" preserve="all" />
+    <type fullname="Easter2023CIAPProductPopup" preserve="all" />
+    <type fullname="Easter2023CIAPVisualConfig" preserve="all" />
+    <type fullname="Easter2023CIAPVisualConfigView" preserve="all" />
+    <type fullname="Easter2023CSO" preserve="all" />
+    <type fullname="Easter2023CSOView" preserve="all" />
+    <type fullname="Easter2023Popup" preserve="all" />
+    <type fullname="Easter2023Shop" preserve="all" />
+    <type fullname="Easter2023ShopView" preserve="all" />
+    <type fullname="Easter2023TeaserCSO" preserve="all" />
+    <type fullname="Easter2023TeaserPopup" preserve="all" />
+    <type fullname="EditorAd" preserve="all" />
+    <type fullname="EditorBannerAd" preserve="all" />
+    <type fullname="EditorDialog" preserve="all" />
+    <type fullname="EditorPurchaseSheet" preserve="all" />
+    <type fullname="EditorRestoreSheet" preserve="all" />
+    <type fullname="EditorShare" preserve="all" />
+    <type fullname="EditorStore" preserve="all" />
+    <type fullname="EmojiConfig" preserve="all" />
     <type fullname="EmojiRandomizer" preserve="all" />
     <type fullname="EmojiTimer" preserve="all" />
-    <type fullname="EventSwitch" preserve="all" />
+    <type fullname="EscapeBlocker" preserve="all" />
+    <type fullname="EvaluatorParam" preserve="all" />
+    <type fullname="EventListener" preserve="all" />
+    <type fullname="EventMilestoneReachedCSO" preserve="all" />
+    <type fullname="EventOfferPopup" preserve="all" />
+    <type fullname="EventPopup" preserve="all" />
+    <type fullname="EventPostOfferPopup" preserve="all" />
+    <type fullname="EventPostOfferView" preserve="all" />
+    <type fullname="EventRewardAnim" preserve="all" />
+    <type fullname="EventRewardCollectAnimator" preserve="all" />
+    <type fullname="EventRewardsEntryView" preserve="all" />
+    <type fullname="EventTeaserPopup" preserve="all" />
     <type fullname="EventTrain" preserve="all" />
+    <type fullname="Executor" preserve="all" />
+    <type fullname="FaceCamera" preserve="all" />
+    <type fullname="FactoryBasedVariant" preserve="all" />
+    <type fullname="FactoryEntryStorageFull" preserve="all" />
+    <type fullname="FactoryManagerAndMarketingExpert" preserve="all" />
+    <type fullname="FactoryManagerPopup" preserve="all" />
+    <type fullname="FactoryOffer" preserve="all" />
+    <type fullname="FactoryOfferAvailable" preserve="all" />
+    <type fullname="FactoryOfferPopup" preserve="all" />
+    <type fullname="FactoryOfferSystem" preserve="all" />
+    <type fullname="FactoryOfferSystem_ButtonView" preserve="all" />
+    <type fullname="FactoryOfferSystemLogic" preserve="all" />
+    <type fullname="FactoryOfferSystemUILogic" preserve="all" />
+    <type fullname="FactoryOfferView" preserve="all" />
+    <type fullname="FactoryOfferVisualConfig" preserve="all" />
+    <type fullname="FactoryOfferVisualConfigView" preserve="all" />
+    <type fullname="FactoryPrestigeRequiredCondition" preserve="all" />
+    <type fullname="FactoryStatisticsView" preserve="all" />
+    <type fullname="FactorySummaryView" preserve="all" />
     <type fullname="FactoryVariant" preserve="all" />
+    <type fullname="FirstPersonInput" preserve="all" />
+    <type fullname="FirstPersonToggle" preserve="all" />
+    <type fullname="FixedBoolsCombiner" preserve="all" />
+    <type fullname="FixedNumbersCombiner" preserve="all" />
+    <type fullname="FlashSaleButton" preserve="all" />
+    <type fullname="FlashSaleButtonView" preserve="all" />
+    <type fullname="FlashSalesPopup" preserve="all" />
     <type fullname="FloatingTexture" preserve="all" />
+    <type fullname="FlyingLidChestAnimator" preserve="all" />
+    <type fullname="FontProcessor" preserve="all" />
     <type fullname="ForceRotator" preserve="all" />
+    <type fullname="ForceScroller" preserve="all" />
+    <type fullname="Forest" preserve="all" />
+    <type fullname="ForestData" preserve="all" />
+    <type fullname="ForestDataTreeSelectionView" preserve="all" />
+    <type fullname="ForestGroup" preserve="all" />
+    <type fullname="ForestGroupData" preserve="all" />
+    <type fullname="ForestListView" preserve="all" />
+    <type fullname="ForestPopup" preserve="all" />
+    <type fullname="ForestStatisticsView" preserve="all" />
     <type fullname="ForestTruck" preserve="all" />
+    <type fullname="ForestTruckGroup" preserve="all" />
+    <type fullname="ForestTruckGroupData" preserve="all" />
+    <type fullname="Forklift" preserve="all" />
+    <type fullname="ForkliftGroup" preserve="all" />
+    <type fullname="ForkliftGroupData" preserve="all" />
+    <type fullname="FormulaDoubleCSO" preserve="all" />
+    <type fullname="FPS" preserve="all" />
+    <type fullname="FreeChestView" preserve="all" />
     <type fullname="FX.SlamParticles" preserve="all" />
+    <type fullname="FXController" preserve="all" />
+    <type fullname="FXLocator" preserve="all" />
+    <type fullname="GameConfig" preserve="all" />
+    <type fullname="GameEventController" preserve="all" />
+    <type fullname="GameEventCSO" preserve="all" />
+    <type fullname="GameEventCSO_PrejoinHidden" preserve="all" />
+    <type fullname="GameEventHistoryCSO" preserve="all" />
+    <type fullname="GameEventManager" preserve="all" />
+    <type fullname="GameEventTeaserRewardCalculatorCSO" preserve="all" />
+    <type fullname="GamePass" preserve="all" />
+    <type fullname="GamePassBuyPointPopup" preserve="all" />
+    <type fullname="GamePassBuyPremiumPopup" preserve="all" />
+    <type fullname="GamePassController" preserve="all" />
+    <type fullname="GamePassLevelList" preserve="all" />
+    <type fullname="GamePassLevelView" preserve="all" />
+    <type fullname="GamePassManager" preserve="all" />
+    <type fullname="GamePassMissionManager" preserve="all" />
+    <type fullname="GamePassNoti" preserve="all" />
+    <type fullname="GamePassPopup" preserve="all" />
+    <type fullname="GamePassView" preserve="all" />
+    <type fullname="GamePassView_Rank" preserve="all" />
+    <type fullname="GamePopupCSO" preserve="all" />
+    <type fullname="GamePopupCSOView" preserve="all" />
+    <type fullname="GamePopupCSOViewInjector" preserve="all" />
+    <type fullname="GdprCanvas" preserve="all" />
+    <type fullname="GdprPopup" preserve="all" />
+    <type fullname="GiftController" preserve="all" />
+    <type fullname="GiftManager" preserve="all" />
+    <type fullname="GiftPopup" preserve="all" />
+    <type fullname="GiftRewardView" preserve="all" />
+    <type fullname="GivingRewardListView" preserve="all" />
+    <type fullname="GivingRewardView" preserve="all" />
+    <type fullname="GivingRewardView_AutoInfoButton" preserve="all" />
+    <type fullname="GridCellDivider" preserve="all" />
+    <type fullname="HalfCutLog" preserve="all" />
+    <type fullname="HalloweenDecorMapper" preserve="all" />
+    <type fullname="HalloweenMissionManager" preserve="all" />
+    <type fullname="HalloweenOrderInterceptor" preserve="all" />
+    <type fullname="HalloweenSpecificCSO" preserve="all" />
+    <type fullname="HalloweenTeaserPopup" preserve="all" />
+    <type fullname="HasAdFreeCSO" preserve="all" />
+    <type fullname="HighlightBlinker" preserve="all" />
+    <type fullname="Holiday" preserve="all" />
+    <type fullname="Holiday_ActiveCSO" preserve="all" />
+    <type fullname="Holiday_DailyResetCSO" preserve="all" />
+    <type fullname="Holiday_MainButtonNotiCSO" preserve="all" />
+    <type fullname="Holiday_RootCSO" preserve="all" />
+    <type fullname="HolidayCurrencyExchangeCaller" preserve="all" />
+    <type fullname="HolidayCurrencyExchangeCSO" preserve="all" />
+    <type fullname="HolidayCurrencyExchangeCSOView" preserve="all" />
+    <type fullname="HolidayCurrencyExchangePopup" preserve="all" />
+    <type fullname="HolidayParameters" preserve="all" />
+    <type fullname="HolidayShop" preserve="all" />
+    <type fullname="HolidayShop_BridgeBoostActiveTimeCSO" preserve="all" />
+    <type fullname="HolidayShop_BridgeDailyResetCSO" preserve="all" />
+    <type fullname="HolidayShop_BuyCountCSO" preserve="all" />
+    <type fullname="HolidayShopItem" preserve="all" />
+    <type fullname="HolidayShopItem_BuyActionCSO" preserve="all" />
+    <type fullname="HolidayShopItem_GlobalCounterCSO" preserve="all" />
+    <type fullname="HolidayShopItem_MaterialBundle" preserve="all" />
+    <type fullname="HolidayShopItem_RemainingCSO" preserve="all" />
+    <type fullname="HolidayShopItem_RemainingCSOView" preserve="all" />
+    <type fullname="HolidayShopItem_VillageStatueBoughtCountCSO" preserve="all" />
+    <type fullname="HolidayShopItemList_Auto" preserve="all" />
+    <type fullname="HolidayShopItemList_TierAuto" preserve="all" />
+    <type fullname="HolidayShopItemView" preserve="all" />
+    <type fullname="HolidayShopPopup" preserve="all" />
+    <type fullname="HolidayShopTier" preserve="all" />
+    <type fullname="HolidayShopTier_AvailableListSpawner" preserve="all" />
+    <type fullname="HolidayShopTier_FreeItemCSO" preserve="all" />
+    <type fullname="HolidayShopTier_FreeItemCSOView" preserve="all" />
+    <type fullname="HolidayShopTierView" preserve="all" />
+    <type fullname="HolidayShopView" preserve="all" />
+    <type fullname="HolidaysManager" preserve="all" />
+    <type fullname="HolidayView" preserve="all" />
+    <type fullname="Hyperlink" preserve="all" />
+    <type fullname="IconCSO" preserve="all" />
+    <type fullname="ImageSlider" preserve="all" />
+    <type fullname="IncrementMissionPlan" preserve="all" />
+    <type fullname="IndieSystem.Variant.VariantConfig" preserve="all" />
+    <type fullname="IndieSystem.Variant.VariantManager" preserve="all" />
+    <type fullname="IndieSystem.Variant.VariantOverrider" preserve="all" />
+    <type fullname="IndieSystem.Variant.VariantSetter" preserve="all" />
+    <type fullname="Indoor" preserve="all" />
+    <type fullname="IndoorManager" preserve="all" />
+    <type fullname="InfoPanel" preserve="all" />
+    <type fullname="InfoPanelCaller" preserve="all" />
+    <type fullname="InfoPanelCSO_Chest" preserve="all" />
+    <type fullname="InfoPanelCSO_Chest_Tree" preserve="all" />
+    <type fullname="InfoPanelCSO_Constant" preserve="all" />
+    <type fullname="InfoPanelCSO_MultipleLineDesc" preserve="all" />
+    <type fullname="InfoPanelCSO_SelectTree" preserve="all" />
+    <type fullname="InfoPanelCSOCaller" preserve="all" />
+    <type fullname="InfoPanelCSOCaller_SelectTree" preserve="all" />
+    <type fullname="InfoPanelCSOView" preserve="all" />
+    <type fullname="InfoPanelUI" preserve="all" />
+    <type fullname="InputController" preserve="all" />
     <type fullname="InstantMultiTransporter" preserve="all" />
+    <type fullname="InstantTransporter" preserve="all" />
+    <type fullname="InterimStorageAgent" preserve="all" />
+    <type fullname="IntervalActionCSOView_SharedInjector" preserve="all" />
+    <type fullname="IntervalTimerCSO" preserve="all" />
+    <type fullname="IntervalTimerCSOView" preserve="all" />
+    <type fullname="InTimeRangeConditionCSO" preserve="all" />
+    <type fullname="iPhoneX" preserve="all" />
+    <type fullname="IsAtCameraModeCSO" preserve="all" />
+    <type fullname="IsAtSelectedWorldCSO" preserve="all" />
+    <type fullname="IsFirstLaunchCSO" preserve="all" />
+    <type fullname="IsUIReadyCSO" preserve="all" />
     <type fullname="JustABounds" preserve="all" />
+    <type fullname="LanguageButton" preserve="all" />
+    <type fullname="LanguagePopup" preserve="all" />
+    <type fullname="Launcher" preserve="all" />
+    <type fullname="LauncherPre" preserve="all" />
+    <type fullname="LayoutRebuild" preserve="all" />
+    <type fullname="LeaderboardButtonView" preserve="all" />
+    <type fullname="LeaderboardDataLoader" preserve="all" />
+    <type fullname="LeaderboardGroupHeaderView" preserve="all" />
+    <type fullname="LeaderboardGroupView" preserve="all" />
+    <type fullname="LeaderboardPopup" preserve="all" />
+    <type fullname="LeaderboardResultListRecyclerProvider" preserve="all" />
+    <type fullname="LeaderboardResultListView" preserve="all" />
+    <type fullname="LeaderboardResultRecordView" preserve="all" />
+    <type fullname="LeaderboardSystem" preserve="all" />
+    <type fullname="LeaderboardSystemSaveCSO" preserve="all" />
+    <type fullname="LeaderboardTopRankCSO" preserve="all" />
+    <type fullname="LeaderboardView" preserve="all" />
+    <type fullname="LeaderboardView_Rewards" preserve="all" />
+    <type fullname="LegendaryGreeting" preserve="all" />
+    <type fullname="LegendaryGreetingPopup" preserve="all" />
+    <type fullname="LegendarySupervisor" preserve="all" />
+    <type fullname="LittleGhostCurrencyCollector" preserve="all" />
+    <type fullname="LoadUI" preserve="all" />
     <type fullname="LogCarrier" preserve="all" />
+    <type fullname="LTEShopViewList" preserve="all" />
+    <type fullname="LumberTreeSystem.ChangeTreePopup" preserve="all" />
+    <type fullname="LumberTreeSystem.ForestTreeMediator" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKind" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindAvailable" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindCardCount" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindIcon_Machine" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindInterceptorSO" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindLevel" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindLeveling" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindLevelingNoti" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindLevelingView" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindPopup" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindProps" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindPropsView" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindSelfCardCost" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindSelfCardCostView" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindTitle_Machine" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindUnlocked" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindView" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindView_WithAmount" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindVisualConfig" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeKindVisualConfigView" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeLinkage" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeMigration" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeSystem" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeSystemAvgLogValue" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeSystemInjector" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeSystemNotiCSO" preserve="all" />
+    <type fullname="LumberTreeSystem.TreeSystemView" preserve="all" />
+    <type fullname="Machine" preserve="all" />
+    <type fullname="MachineChain" preserve="all" />
+    <type fullname="MachineChainData" preserve="all" />
+    <type fullname="MachineChainGroup" preserve="all" />
+    <type fullname="MachineData" preserve="all" />
+    <type fullname="MachineDataProvider" preserve="all" />
+    <type fullname="MachineEvolveSplitTestData" preserve="all" />
+    <type fullname="MachineEvolveSplitTestHandler" preserve="all" />
+    <type fullname="MachineGenerations" preserve="all" />
+    <type fullname="MachineGround" preserve="all" />
+    <type fullname="MachineGroup" preserve="all" />
+    <type fullname="MachineGroupData" preserve="all" />
+    <type fullname="MachineGroupStatisticsView" preserve="all" />
+    <type fullname="MachineIncomeParam" preserve="all" />
+    <type fullname="MachineLegendarySupervisorVisual" preserve="all" />
+    <type fullname="MachineListView" preserve="all" />
+    <type fullname="MachineMissionPlan" preserve="all" />
+    <type fullname="MachineProcessingRewardGiver" preserve="all" />
+    <type fullname="MachineProcessor" preserve="all" />
     <type fullname="MachineRowSign" preserve="all" />
+    <type fullname="MachineStatisticsView" preserve="all" />
+    <type fullname="MachineUpgradeFXs" preserve="all" />
+    <type fullname="MachineView" preserve="all" />
+    <type fullname="MachineVisualConfigByPackage" preserve="all" />
     <type fullname="MachineWorker" preserve="all" />
+    <type fullname="MainCurrencyHeaderGroup" preserve="all" />
+    <type fullname="MainEventLeaderboardInjector" preserve="all" />
+    <type fullname="MainMissionManagerInjector" preserve="all" />
+    <type fullname="MainThreadExecutor" preserve="all" />
+    <type fullname="MainUIElementCSO" preserve="all" />
+    <type fullname="MainUIElementSpawner" preserve="all" />
     <type fullname="ManualDataSetup" preserve="all" />
+    <type fullname="MarketingExpertPopup" preserve="all" />
+    <type fullname="MasterTool" preserve="all" />
+    <type fullname="MaterialOfferProvider" preserve="all" />
+    <type fullname="MedievalBladePlacer" preserve="all" />
+    <type fullname="MedievalCantingMachineGen_2_3" preserve="all" />
+    <type fullname="MedievalCantingMechanismGen_2" preserve="all" />
+    <type fullname="MedievalCantingMechanismGen_3" preserve="all" />
+    <type fullname="MedievalDriver" preserve="all" />
+    <type fullname="MedievalEngineWorkerAnimator" preserve="all" />
+    <type fullname="MedievalHorseLead" preserve="all" />
+    <type fullname="MedievalMachinePathInfo" preserve="all" />
+    <type fullname="MedievalPeelingMachineGen_2_3" preserve="all" />
+    <type fullname="MedievalResawMachineGen_2" preserve="all" />
+    <type fullname="MedievalResawMachineGen_3" preserve="all" />
+    <type fullname="MedievalSandingMachineGen_2_3" preserve="all" />
+    <type fullname="MedievalWorkerAnimator" preserve="all" />
+    <type fullname="MedievalWorkerMover" preserve="all" />
+    <type fullname="MeshGenerator._2D.PolygonMeshGeneratorMono" preserve="all" />
+    <type fullname="MeshGenerator._2D.PolygonVertexGroupMono" preserve="all" />
+    <type fullname="MeshGenerator._2D.PolygonVertexMono" preserve="all" />
+    <type fullname="MGP_CounterMaster" preserve="all" />
+    <type fullname="MGP_Timberman" preserve="all" />
+    <type fullname="MGPData_CounterMaster" preserve="all" />
+    <type fullname="MGPData_Timberman" preserve="all" />
+    <type fullname="MGUI_CounterMaster" preserve="all" />
+    <type fullname="MGUI_Timberman" preserve="all" />
+    <type fullname="MilestoneListView" preserve="all" />
+    <type fullname="MilestoneView" preserve="all" />
+    <type fullname="MillingLog" preserve="all" />
     <type fullname="MillingMachineGen_01" preserve="all" />
     <type fullname="MillingMachineGen_02" preserve="all" />
     <type fullname="MillingMachineGen_02Controller" preserve="all" />
     <type fullname="MillingMachineHorizontalSlider" preserve="all" />
     <type fullname="MillingWorker" preserve="all" />
+    <type fullname="Minigame" preserve="all" />
+    <type fullname="MiniGame.MathRunner.CarBlade" preserve="all" />
+    <type fullname="MiniGame.MathRunner.CarMover" preserve="all" />
+    <type fullname="MiniGame.MathRunner.CorrectScoreAfterCuttingDownTrees" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Environment.FinishLine" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Environment.HammerPositioning" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Environment.LeftRightRandomizer" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Environment.MathOperation" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Environment.MathOperationPair" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Environment.MultiLeftRightRandomizer" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Environment.Obstacles.CarKiller" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Environment.Obstacles.Rock" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Environment.Obstacles.ThePitFall" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Environment.Obstacles.Tree" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Environment.Obstacles.Wall" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Environment.RoadSpawner" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Environment.RockContainer" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Environment.StuffRandomizer" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Environment.TreeContainer" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Framework.CameraFollow" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Framework.SequentialObject" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Framework.SimpleObjectSequenceSpawner" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Framework.SimpleSphereCollider" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Gameplay.ValueWrapperDisplay" preserve="all" />
+    <type fullname="MiniGame.MathRunner.MathRunnerGameConfig" preserve="all" />
+    <type fullname="MiniGame.MathRunner.MathRunnerInput" preserve="all" />
+    <type fullname="MiniGame.MathRunner.MathRunnerMainGame" preserve="all" />
+    <type fullname="MiniGame.MathRunner.Motor" preserve="all" />
+    <type fullname="MiniGame.MathRunner.ScoreToVisualMapper" preserve="all" />
+    <type fullname="MiniGame.MathRunner.TapToStartUI" preserve="all" />
+    <type fullname="MiniGame.MathRunner.TextureMotor" preserve="all" />
+    <type fullname="MiniGame.MathRunner.TheCar" preserve="all" />
+    <type fullname="MiniGame.MathRunner.TheCarVisual" preserve="all" />
+    <type fullname="MiniGame.MathRunner.TopDisplay" preserve="all" />
+    <type fullname="MiniGame.MathRunner.WoodCuttingMainGame" preserve="all" />
+    <type fullname="MiniGame.Scripts.Framework.GameEndDisplay" preserve="all" />
+    <type fullname="MiniGame.WoodCutting.ComboBar" preserve="all" />
+    <type fullname="MiniGame.WoodCutting.WoodBlock" preserve="all" />
+    <type fullname="MiniGame.WoodCutting.WoodCuttingGameConfig" preserve="all" />
+    <type fullname="MiniGame.WoodCutting.WoodCuttingInput" preserve="all" />
+    <type fullname="MiniGame.WoodCutting.WoodCuttingTree" preserve="all" />
+    <type fullname="MiniGame.WoodCutting.WoodCuttingWorker" preserve="all" />
+    <type fullname="MinigameAssetManager" preserve="all" />
+    <type fullname="MinigameController" preserve="all" />
+    <type fullname="MinigameManager" preserve="all" />
+    <type fullname="MinigameManagerView" preserve="all" />
+    <type fullname="MinigameManagerViewInjector" preserve="all" />
+    <type fullname="MinigameUIController" preserve="all" />
+    <type fullname="MiscMissionPlan" preserve="all" />
+    <type fullname="Mission.Handlers.MissionHandler_OpenPopup" preserve="all" />
+    <type fullname="Mission2" preserve="all" />
+    <type fullname="Mission2ActionReceiver" preserve="all" />
+    <type fullname="Mission2BridgeResetCSO" preserve="all" />
+    <type fullname="Mission2DataView" preserve="all" />
+    <type fullname="Mission2DescriptorDefault" preserve="all" />
+    <type fullname="Mission2DescriptorMachine" preserve="all" />
+    <type fullname="Mission2DescriptorStringInterp" preserve="all" />
+    <type fullname="Mission2DescriptorVehicle" preserve="all" />
+    <type fullname="Mission2ExtraCompletor" preserve="all" />
+    <type fullname="Mission2ExtraRepetition" preserve="all" />
+    <type fullname="Mission2ExtraRepetitionView" preserve="all" />
+    <type fullname="Mission2Manager" preserve="all" />
+    <type fullname="Mission2ManagerMainInjector" preserve="all" />
+    <type fullname="Mission2ManagerView" preserve="all" />
+    <type fullname="Mission2ManagerView_SetInjector" preserve="all" />
+    <type fullname="Mission2ManagerVisualConfig" preserve="all" />
+    <type fullname="Mission2ManagerVisualConfigView" preserve="all" />
+    <type fullname="Mission2OperatorCash" preserve="all" />
+    <type fullname="Mission2OperatorDefault" preserve="all" />
+    <type fullname="Mission2OperatorMachine" preserve="all" />
+    <type fullname="Mission2OperatorVehicle" preserve="all" />
+    <type fullname="Mission2RewardsDefault" preserve="all" />
+    <type fullname="Mission2RewardsView" preserve="all" />
+    <type fullname="Mission2Set" preserve="all" />
+    <type fullname="Mission2SetNoti" preserve="all" />
+    <type fullname="Mission2SetProcessorAnalyticsWinterLTE" preserve="all" />
+    <type fullname="Mission2SetProcessorBasic" preserve="all" />
+    <type fullname="Mission2SetProcessorListener" preserve="all" />
+    <type fullname="Mission2SetProcessorNewpass" preserve="all" />
+    <type fullname="Mission2SetProcessorNewpassClearing" preserve="all" />
+    <type fullname="Mission2SetProcessorNewpassClearingView" preserve="all" />
+    <type fullname="Mission2SetProcessorWinterLTE" preserve="all" />
+    <type fullname="Mission2SetProcessorWinterLTEView" preserve="all" />
+    <type fullname="Mission2SetView" preserve="all" />
+    <type fullname="Mission2SetView_MissionList" preserve="all" />
+    <type fullname="Mission2SetView_SetViewSpawner" preserve="all" />
+    <type fullname="Mission2SetVisualConfig" preserve="all" />
+    <type fullname="MissionHandlerManager" preserve="all" />
+    <type fullname="MissionListAutoScroll" preserve="all" />
+    <type fullname="MissionListView_LifecycleView" preserve="all" />
+    <type fullname="MissionManager" preserve="all" />
+    <type fullname="MissionManagerAddition" preserve="all" />
+    <type fullname="MissionNotification" preserve="all" />
+    <type fullname="MissionPopup" preserve="all" />
+    <type fullname="MissionPopupCaller" preserve="all" />
+    <type fullname="MissionView" preserve="all" />
+    <type fullname="MockCanvas" preserve="all" />
+    <type fullname="MonoStopwatch" preserve="all" />
     <type fullname="MouseClickBox" preserve="all" />
+    <type fullname="MoverPathRandomizer" preserve="all" />
+    <type fullname="MultiPrefabComposedSOViewSpawner" preserve="all" />
+    <type fullname="MultiRewardAmountView" preserve="all" />
+    <type fullname="MultiSupervisorsPopup" preserve="all" />
     <type fullname="MultiTargetSetActive" preserve="all" />
+    <type fullname="MWVNotification" preserve="all" />
+    <type fullname="MWVPopup" preserve="all" />
+    <type fullname="NavigatorCSO_ToShop" preserve="all" />
+    <type fullname="NavigatorCSOView" preserve="all" />
+    <type fullname="NavigatorMono_ScrollAndHighlight" preserve="all" />
+    <type fullname="NewMilestoneManagerViewDetailProgress" preserve="all" />
+    <type fullname="Newpass" preserve="all" />
+    <type fullname="NewpassActive" preserve="all" />
+    <type fullname="NewpassActiveView" preserve="all" />
+    <type fullname="NewpassAntique" preserve="all" />
+    <type fullname="NewpassBuyPointPopup" preserve="all" />
+    <type fullname="NewpassBuyPremiumPopup" preserve="all" />
+    <type fullname="NewpassBuyPremiumPopup_Antique" preserve="all" />
+    <type fullname="NewpassChestInfoPopup" preserve="all" />
+    <type fullname="NewpassExternalXP" preserve="all" />
+    <type fullname="NewpassHasPremiumValue" preserve="all" />
+    <type fullname="NewpassInfiniteLevelView" preserve="all" />
+    <type fullname="NewpassLevelIndex" preserve="all" />
+    <type fullname="NewpassLevelList" preserve="all" />
+    <type fullname="NewpassLevels" preserve="all" />
+    <type fullname="NewpassLevelsDisplayRestrict" preserve="all" />
+    <type fullname="NewpassLevelsPopup" preserve="all" />
+    <type fullname="NewpassLevelsRewardNoti" preserve="all" />
+    <type fullname="NewpassLevelsView" preserve="all" />
+    <type fullname="NewpassLevelsView_RankEffect" preserve="all" />
+    <type fullname="NewpassLevelView" preserve="all" />
+    <type fullname="NewpassMainManager" preserve="all" />
+    <type fullname="NewpassMainManagerInjector" preserve="all" />
+    <type fullname="NewpassMainManagerView_OpenerButtons" preserve="all" />
+    <type fullname="NewpassManager_IAPConfig" preserve="all" />
+    <type fullname="NewpassManager_MainConfig" preserve="all" />
+    <type fullname="NewpassManagerInjector" preserve="all" />
+    <type fullname="NewpassManagerView_CurrentPassInjector" preserve="all" />
+    <type fullname="NewpassMission2SetView" preserve="all" />
+    <type fullname="NewpassMission2View" preserve="all" />
+    <type fullname="NewpassOfferController" preserve="all" />
+    <type fullname="NewpassOpenerButtonView" preserve="all" />
+    <type fullname="NewpassPointFXLocator" preserve="all" />
+    <type fullname="NewpassPopup" preserve="all" />
+    <type fullname="NewpassPremiumInfoPopup" preserve="all" />
+    <type fullname="NewpassPrioritizerDefault" preserve="all" />
+    <type fullname="NewpassPrioritizerOnce" preserve="all" />
+    <type fullname="NewpassPurchaseXP" preserve="all" />
+    <type fullname="NewpassPurchaseXPView" preserve="all" />
+    <type fullname="NewpassStartNewConfirmPopup" preserve="all" />
+    <type fullname="NewpassSubManager" preserve="all" />
+    <type fullname="NewpassSummarizedGivingRewardView" preserve="all" />
+    <type fullname="NewpassTiming" preserve="all" />
+    <type fullname="NewpassTimingView" preserve="all" />
+    <type fullname="NewpassView" preserve="all" />
+    <type fullname="NewpassView_MissionTab" preserve="all" />
+    <type fullname="NewpassView_Premium" preserve="all" />
+    <type fullname="NewpassView_PremiumRewardList" preserve="all" />
+    <type fullname="NewpassVisualConfig" preserve="all" />
+    <type fullname="NewpassVisualConfigView" preserve="all" />
+    <type fullname="NewpassVisualConfigView_PopupSupportObjectSpawner" preserve="all" />
+    <type fullname="NewpassVisualConfigView_VariantOverriding" preserve="all" />
+    <type fullname="NextValuePropCSOView" preserve="all" />
     <type fullname="NodeTarget" preserve="all" />
+    <type fullname="NodeTargetGroup" preserve="all" />
+    <type fullname="Npu.AssetManager.AssetGroup" preserve="all" />
+    <type fullname="Npu.AssetManager.AssetManager" preserve="all" />
+    <type fullname="Npu.AssetManager.AssetOverrider" preserve="all" />
+    <type fullname="Npu.AssetManager.AssetProviderUpdater" preserve="all" />
+    <type fullname="Npu.AssetManager.AssetVariants" preserve="all" />
+    <type fullname="Npu.AssetManager.ImageSpriteProvider" preserve="all" />
     <type fullname="Npu.AssetManager.PrefabInstancer" preserve="all" />
+    <type fullname="Npu.AssetManager.RendererMaterialProvider" preserve="all" />
+    <type fullname="Npu.AssetManager.SpriteRendererSpriteProvider" preserve="all" />
     <type fullname="Npu.AssetManager.TMProFontProvider" preserve="all" />
     <type fullname="Npu.AssetManager.TMProSpriteAssetProvider" preserve="all" />
+    <type fullname="Npu.AssetManager.View.AssetEntryView" preserve="all" />
+    <type fullname="Npu.AssetManager.View.AssetGroupView" preserve="all" />
+    <type fullname="Npu.AssetManager.View.AssetManagerView" preserve="all" />
+    <type fullname="Npu.AssetManager.View.AssetMenu" preserve="all" />
+    <type fullname="Npu.Milk.Actions.Mono.YaasCombineActionMono" preserve="all" />
+    <type fullname="Npu.Milk.Actions.Mono.YaasDelayActionMono" preserve="all" />
+    <type fullname="Npu.Milk.Actions.Mono.YaasTriggerEndActionMono" preserve="all" />
+    <type fullname="Npu.Milk.Actions.Mono.YaasTriggerTransitionActionMono" preserve="all" />
+    <type fullname="Npu.Milk.DecisionGraph.BasicsDecisionGraphMono" preserve="all" />
+    <type fullname="Npu.Milk.DecisionGraph.YasmGlobalTransitionTriggerMono" preserve="all" />
     <type fullname="ObjectTools" preserve="all" />
+    <type fullname="OfferPopup" preserve="all" />
+    <type fullname="OfferPopupCaller" preserve="all" />
+    <type fullname="OfferProviderById" preserve="all" />
+    <type fullname="OfflinePopup" preserve="all" />
+    <type fullname="OpenChestTypeFilterCSO" preserve="all" />
+    <type fullname="OrderConfig" preserve="all" />
+    <type fullname="OrderListSpawner_Processing" preserve="all" />
+    <type fullname="OrderListView" preserve="all" />
+    <type fullname="OrderManager" preserve="all" />
+    <type fullname="OrderManagerListener" preserve="all" />
+    <type fullname="OrderNotification" preserve="all" />
+    <type fullname="OrderRunner" preserve="all" />
+    <type fullname="OrdersPopup_New" preserve="all" />
+    <type fullname="OrderSub_AutoInfo" preserve="all" />
+    <type fullname="OrderSub_ConstructionInfo" preserve="all" />
+    <type fullname="OrderSub_PendingInfo" preserve="all" />
+    <type fullname="OrderSub_WaitingNew" preserve="all" />
+    <type fullname="OrderView" preserve="all" />
+    <type fullname="OrderViewButton" preserve="all" />
+    <type fullname="Oscillation" preserve="all" />
+    <type fullname="Outdoor" preserve="all" />
+    <type fullname="OutdoorManager" preserve="all" />
+    <type fullname="PackageMapping" preserve="all" />
+    <type fullname="PackageMappingFilterCSO" preserve="all" />
+    <type fullname="PackageMappingResources" preserve="all" />
+    <type fullname="PackageParticleSystemConfigApplier" preserve="all" />
+    <type fullname="Packages.Log" preserve="all" />
+    <type fullname="PackageStatistics" preserve="all" />
+    <type fullname="Padinator" preserve="all" />
+    <type fullname="ParticleSpawner" preserve="all" />
+    <type fullname="PathMovingSpawner" preserve="all" />
+    <type fullname="PatternTrigger" preserve="all" />
+    <type fullname="PeelingLog" preserve="all" />
     <type fullname="PeelingMachineCarrier" preserve="all" />
     <type fullname="PeelingMachineGen_01" preserve="all" />
     <type fullname="PeelingMachineGen_02_NoCutting" preserve="all" />
     <type fullname="PeelingMachineRotatingMouth" preserve="all" />
     <type fullname="PeelingWorker" preserve="all" />
+    <type fullname="PeriodicTrigger" preserve="all" />
+    <type fullname="PiggyBankInjector" preserve="all" />
+    <type fullname="PiggyBankManager" preserve="all" />
+    <type fullname="PiggyBankPopup" preserve="all" />
+    <type fullname="PiggyBankView" preserve="all" />
+    <type fullname="PiggyBankView_MainButton" preserve="all" />
     <type fullname="Planter" preserve="all" />
+    <type fullname="PlanterGroup" preserve="all" />
+    <type fullname="PlanterGroupData" preserve="all" />
+    <type fullname="PlatformProvider" preserve="all" />
+    <type fullname="PopupBG" preserve="all" />
+    <type fullname="PopupCaller" preserve="all" />
+    <type fullname="PopupControllerRegister" preserve="all" />
+    <type fullname="PowerupButtonCSO" preserve="all" />
+    <type fullname="PowerupButtonCSOView" preserve="all" />
+    <type fullname="PowerUpDescription" preserve="all" />
+    <type fullname="PowerUpFlashSales" preserve="all" />
+    <type fullname="PowerUpFlashSalesOfferer" preserve="all" />
+    <type fullname="PowerUpMoneyOfferer" preserve="all" />
+    <type fullname="PowerUpSpeedOfferer" preserve="all" />
+    <type fullname="PowerupSpeedView" preserve="all" />
+    <type fullname="PowerUpUtilsMono" preserve="all" />
+    <type fullname="PrefabBindingSpawner" preserve="all" />
+    <type fullname="PregameCompositions" preserve="all" />
+    <type fullname="PresetDurationCooldownTimerCSO" preserve="all" />
+    <type fullname="PresetDurationCooldownTimerView" preserve="all" />
+    <type fullname="PrestigeItemView" preserve="all" />
+    <type fullname="PrestigeNotification" preserve="all" />
+    <type fullname="PrestigePopup" preserve="all" />
+    <type fullname="PrestigePopupDecorDots" preserve="all" />
+    <type fullname="PrestigeView" preserve="all" />
     <type fullname="PrimitiveMachineJoint" preserve="all" />
     <type fullname="PrimitiveMachineMotor" preserve="all" />
     <type fullname="PrimitiveMachinePart" preserve="all" />
+    <type fullname="ProductionStatistics" preserve="all" />
+    <type fullname="ProductMetricsView" preserve="all" />
+    <type fullname="ProductMetricView" preserve="all" />
+    <type fullname="ProfilerStatistic" preserve="all" />
+    <type fullname="PropCSOView" preserve="all" />
+    <type fullname="PurchaseIndicator" preserve="all" />
+    <type fullname="QualityControl" preserve="all" />
+    <type fullname="QualitySettingProperty" preserve="all" />
+    <type fullname="QuickStackStorage" preserve="all" />
+    <type fullname="QuitBlocker" preserve="all" />
+    <type fullname="QuitEscapeResponder" preserve="all" />
+    <type fullname="QuitGamePopup" preserve="all" />
+    <type fullname="RandomRotation" preserve="all" />
+    <type fullname="RandomSupervisorCardRewardCollector" preserve="all" />
+    <type fullname="RecordButton" preserve="all" />
+    <type fullname="RecordPopup" preserve="all" />
+    <type fullname="RecordPopupController" preserve="all" />
+    <type fullname="RectContainingCheck" preserve="all" />
+    <type fullname="RectTransformChangeTrigger" preserve="all" />
+    <type fullname="RectTransformConstrainer" preserve="all" />
+    <type fullname="RectTransformFitter" preserve="all" />
+    <type fullname="RectTransformPositioningSaver" preserve="all" />
+    <type fullname="RectTransformSizeConstrainer" preserve="all" />
+    <type fullname="ResourceProxy" preserve="all" />
+    <type fullname="ResourceTypeFilterCSO" preserve="all" />
+    <type fullname="RewardAmountView" preserve="all" />
+    <type fullname="RewardBundleCSO" preserve="all" />
+    <type fullname="RewardBundleCSOView" preserve="all" />
+    <type fullname="RewardBundleCSOView_QueuedRewardFXSpawner" preserve="all" />
+    <type fullname="RewardCollector" preserve="all" />
+    <type fullname="RewardCollectorInjector" preserve="all" />
+    <type fullname="RewardCollectorView" preserve="all" />
+    <type fullname="RewardCountCSO" preserve="all" />
+    <type fullname="RewardCountCSO_AutoIncrement" preserve="all" />
+    <type fullname="RewardCountCSOView" preserve="all" />
+    <type fullname="RewardCSO" preserve="all" />
+    <type fullname="RewardCSOAmount_BizPoint" preserve="all" />
+    <type fullname="RewardCSOAmount_Range" preserve="all" />
+    <type fullname="RewardCSOAmount_TimeTravelCash" preserve="all" />
+    <type fullname="RewardCSOAmount_Value" preserve="all" />
+    <type fullname="RewardCSOCustom_Background" preserve="all" />
+    <type fullname="RewardCSOCustom_NameColor" preserve="all" />
+    <type fullname="RewardCSOExtra_MaterialBundle" preserve="all" />
+    <type fullname="RewardCSOExtra_NewpassSupervisorRotation" preserve="all" />
+    <type fullname="RewardCSOExtra_ProductionSupervisor" preserve="all" />
+    <type fullname="RewardCSOExtra_SaleOrWSSupervisor" preserve="all" />
+    <type fullname="RewardCSOExtra_SpecificPass" preserve="all" />
+    <type fullname="RewardCSOExtra_Supervisor" preserve="all" />
+    <type fullname="RewardCSOExtra_VillageStatue" preserve="all" />
+    <type fullname="RewardCSOInfoButtonCaller" preserve="all" />
+    <type fullname="RewardCSOName_MaterialBundle" preserve="all" />
+    <type fullname="RewardCSOName_RangedAmount" preserve="all" />
+    <type fullname="RewardCSOName_Specific" preserve="all" />
+    <type fullname="RewardCSOView" preserve="all" />
+    <type fullname="RewardDisplayItemAnimator" preserve="all" />
+    <type fullname="RewardDisplayUI" preserve="all" />
+    <type fullname="RewardIconCSO" preserve="all" />
+    <type fullname="RewardIndicator" preserve="all" />
+    <type fullname="RewardManager" preserve="all" />
+    <type fullname="RewardRunner" preserve="all" />
+    <type fullname="RewardTypeTrigger" preserve="all" />
+    <type fullname="RewardValueListView_001" preserve="all" />
+    <type fullname="RewardValueView" preserve="all" />
+    <type fullname="RightUITrigger" preserve="all" />
+    <type fullname="RippleButton" preserve="all" />
+    <type fullname="RippleButtonHoldAccelerator" preserve="all" />
+    <type fullname="RvDiamondView" preserve="all" />
+    <type fullname="RvFakeBlueprintChestView" preserve="all" />
+    <type fullname="RvFakeGoldenChestView" preserve="all" />
+    <type fullname="RVLogsPopup" preserve="all" />
+    <type fullname="RVLogsRunner" preserve="all" />
     <type fullname="RVLogsTruck" preserve="all" />
+    <type fullname="RvRewardGatewayCSO" preserve="all" />
+    <type fullname="RVVipInvestorDoorOpener" preserve="all" />
+    <type fullname="RVVipInvestorEmoji" preserve="all" />
+    <type fullname="RVVipInvestorRunner" preserve="all" />
+    <type fullname="RVVipInvestorStep" preserve="all" />
+    <type fullname="RVVipInvestorTransport" preserve="all" />
     <type fullname="RVVipInvestorTransportAvatar" preserve="all" />
+    <type fullname="SandedBoard" preserve="all" />
+    <type fullname="SanderAnimate" preserve="all" />
+    <type fullname="SandingBoard" preserve="all" />
     <type fullname="SandingMachineCarrier" preserve="all" />
     <type fullname="SandingMachineGen_01" preserve="all" />
     <type fullname="SandingMachineRotatingMouth" preserve="all" />
     <type fullname="SandingWorker" preserve="all" />
     <type fullname="Saw" preserve="all" />
     <type fullname="SawingTraceRenderer" preserve="all" />
+    <type fullname="ScaleToFit" preserve="all" />
+    <type fullname="Screenshoter" preserve="all" />
+    <type fullname="Screw.AnalyticsCustomTrigger" preserve="all" />
+    <type fullname="Screw.Authentication.SignInButton" preserve="all" />
+    <type fullname="Screw.ChestCSO.Opening.ChestRewardSummary" preserve="all" />
+    <type fullname="Screw.ChestCSO.Opening.RewardFlyingGlow" preserve="all" />
+    <type fullname="Screw.ChestCSO.ShopChest.DailyCountTimerTriggerCSOView" preserve="all" />
+    <type fullname="Screw.CommonKeyedValues" preserve="all" />
+    <type fullname="Screw.CommonUpgraderView" preserve="all" />
+    <type fullname="Screw.ConditionTrigger" preserve="all" />
+    <type fullname="Screw.CurrencySpending" preserve="all" />
+    <type fullname="Screw.DailyRewardProvider" preserve="all" />
     <type fullname="Screw.DataBinder" preserve="all" />
+    <type fullname="Screw.DataBinderHelper" preserve="all" />
+    <type fullname="Screw.DoubleOfferView" preserve="all" />
+    <type fullname="Screw.DoubleProductOffer" preserve="all" />
+    <type fullname="Screw.EscapePropagator" preserve="all" />
+    <type fullname="Screw.ForestSheet" preserve="all" />
+    <type fullname="Screw.ForestView" preserve="all" />
     <type fullname="Screw.Formatter" preserve="all" />
+    <type fullname="Screw.Idle.CappedUpgradableParameters" preserve="all" />
+    <type fullname="Screw.Idle.ChopperParameters" preserve="all" />
+    <type fullname="Screw.Idle.CurrencyCollectorParameters" preserve="all" />
+    <type fullname="Screw.Idle.CurrencyView" preserve="all" />
+    <type fullname="Screw.Idle.CurrentCurrencyView" preserve="all" />
+    <type fullname="Screw.Idle.DurationLimitParameters" preserve="all" />
+    <type fullname="Screw.Idle.EventJoinActionCSO" preserve="all" />
+    <type fullname="Screw.Idle.ExponentialFormula" preserve="all" />
+    <type fullname="Screw.Idle.FactoryParameters" preserve="all" />
+    <type fullname="Screw.Idle.ForestGroupParameters" preserve="all" />
+    <type fullname="Screw.Idle.ForestParameters" preserve="all" />
+    <type fullname="Screw.Idle.IndoorParameters" preserve="all" />
+    <type fullname="Screw.Idle.LinearFormula" preserve="all" />
+    <type fullname="Screw.Idle.MachineChainParameters" preserve="all" />
+    <type fullname="Screw.Idle.MachineGroupParameters" preserve="all" />
+    <type fullname="Screw.Idle.MachineParameters" preserve="all" />
+    <type fullname="Screw.Idle.OutdoorParameters" preserve="all" />
+    <type fullname="Screw.Idle.ParameterManager" preserve="all" />
+    <type fullname="Screw.Idle.PlanterParameters" preserve="all" />
+    <type fullname="Screw.Idle.PowerUp" preserve="all" />
+    <type fullname="Screw.Idle.PowerUpGold" preserve="all" />
+    <type fullname="Screw.Idle.PowerUpGoldView" preserve="all" />
+    <type fullname="Screw.Idle.PowerUpManager" preserve="all" />
+    <type fullname="Screw.Idle.PowerUpParameters" preserve="all" />
+    <type fullname="Screw.Idle.PowerUpView" preserve="all" />
+    <type fullname="Screw.Idle.StepFormula" preserve="all" />
+    <type fullname="Screw.Idle.StorageParameters" preserve="all" />
+    <type fullname="Screw.Idle.SupervisorParameters" preserve="all" />
+    <type fullname="Screw.Idle.Universe" preserve="all" />
+    <type fullname="Screw.Idle.Upgradable" preserve="all" />
+    <type fullname="Screw.Idle.UpgradableParameters" preserve="all" />
+    <type fullname="Screw.Idle.VideoBoostParameters" preserve="all" />
+    <type fullname="Screw.Idle.WorkshopParameters" preserve="all" />
+    <type fullname="Screw.Idle.World" preserve="all" />
+    <type fullname="Screw.Idle.WorldAssetManager" preserve="all" />
+    <type fullname="Screw.Idle.WorldDataProvider" preserve="all" />
+    <type fullname="Screw.Inventory" preserve="all" />
+    <type fullname="Screw.InventoryCategoryScriptable" preserve="all" />
+    <type fullname="Screw.Keys" preserve="all" />
+    <type fullname="Screw.LanguageMenu" preserve="all" />
+    <type fullname="Screw.LocaleResource" preserve="all" />
     <type fullname="Screw.Localizable" preserve="all" />
+    <type fullname="Screw.LocalizableModifier" preserve="all" />
+    <type fullname="Screw.Localizer" preserve="all" />
+    <type fullname="Screw.LocalizerHelper" preserve="all" />
+    <type fullname="Screw.LocalizerView" preserve="all" />
+    <type fullname="Screw.MachineSheet" preserve="all" />
     <type fullname="Screw.MeshMerger" preserve="all" />
+    <type fullname="Screw.NumberFormatter" preserve="all" />
+    <type fullname="Screw.OfferButton" preserve="all" />
+    <type fullname="Screw.OfferManager" preserve="all" />
+    <type fullname="Screw.OfferPopupController" preserve="all" />
+    <type fullname="Screw.OfferPopupTrigger" preserve="all" />
+    <type fullname="Screw.OfferTokenProvider" preserve="all" />
+    <type fullname="Screw.OfferView" preserve="all" />
+    <type fullname="Screw.OfferView_WinterLuckyNumber" preserve="all" />
+    <type fullname="Screw.OfflinePopupController" preserve="all" />
+    <type fullname="Screw.OrderParameters" preserve="all" />
+    <type fullname="Screw.ParameterView" preserve="all" />
+    <type fullname="Screw.PlanterView" preserve="all" />
+    <type fullname="Screw.PopupCloser" preserve="all" />
+    <type fullname="Screw.PopupContainer" preserve="all" />
+    <type fullname="Screw.PopupController" preserve="all" />
+    <type fullname="Screw.PopupOverlayBG" preserve="all" />
+    <type fullname="Screw.PopupOverlayView" preserve="all" />
+    <type fullname="Screw.PopupPrefabsContainer" preserve="all" />
+    <type fullname="Screw.ProductBonusView" preserve="all" />
+    <type fullname="Screw.ProductButton" preserve="all" />
+    <type fullname="Screw.ProductOffer" preserve="all" />
+    <type fullname="Screw.ProductView" preserve="all" />
+    <type fullname="Screw.PurchaseListener" preserve="all" />
+    <type fullname="Screw.QualitySettingDataProvider" preserve="all" />
+    <type fullname="Screw.RestorePurchaseButton" preserve="all" />
+    <type fullname="Screw.ReviewPopup" preserve="all" />
+    <type fullname="Screw.ReviewTrigger" preserve="all" />
     <type fullname="Screw.Rotator" preserve="all" />
+    <type fullname="Screw.ScriptableCondition" preserve="all" />
+    <type fullname="Screw.SettingDataProvider" preserve="all" />
+    <type fullname="Screw.SheetController" preserve="all" />
+    <type fullname="Screw.SimpleBranch" preserve="all" />
+    <type fullname="Screw.SimpleSpendingMono" preserve="all" />
+    <type fullname="Screw.SplitTest" preserve="all" />
+    <type fullname="Screw.SplitTestConsole" preserve="all" />
+    <type fullname="Screw.SplitTestManager" preserve="all" />
+    <type fullname="Screw.SplittestView" preserve="all" />
     <type fullname="Screw.StateSwitcher" preserve="all" />
     <type fullname="Screw.StaticBaker" preserve="all" />
+    <type fullname="Screw.Store" preserve="all" />
+    <type fullname="Screw.StoreParameters" preserve="all" />
+    <type fullname="Screw.SubscriptionEditorSettings" preserve="all" />
+    <type fullname="Screw.SubscriptionGroup" preserve="all" />
+    <type fullname="Screw.SubscriptionHandler" preserve="all" />
+    <type fullname="Screw.SubscriptionViewSimple" preserve="all" />
+    <type fullname="Screw.SupportPopup" preserve="all" />
+    <type fullname="Screw.Switcher" preserve="all" />
     <type fullname="Screw.Tag" preserve="all" />
+    <type fullname="Screw.TextConcat" preserve="all" />
+    <type fullname="Screw.TimeFormatter" preserve="all" />
+    <type fullname="Screw.Toggler" preserve="all" />
+    <type fullname="Screw.TransporterSheet" preserve="all" />
+    <type fullname="Screw.TransporterView" preserve="all" />
+    <type fullname="Screw.TruckGroupSheet" preserve="all" />
+    <type fullname="Screw.TruckView" preserve="all" />
+    <type fullname="Screw.UrlRunner" preserve="all" />
+    <type fullname="Screw.VehicleParameters" preserve="all" />
+    <type fullname="Screw.VideoButton" preserve="all" />
+    <type fullname="Screw.VillageBuildingSheet" preserve="all" />
+    <type fullname="Screw.VillageStatueSheet" preserve="all" />
+    <type fullname="Screw.VipPopupTrigger" preserve="all" />
+    <type fullname="Screw.Visibility" preserve="all" />
+    <type fullname="Screw.WorkerSheet" preserve="all" />
+    <type fullname="Screw.WorldProductButton" preserve="all" />
+    <type fullname="Screw.WorldTransitionPopupController" preserve="all" />
+    <type fullname="ScriptableValueTrigger" preserve="all" />
+    <type fullname="SellingGroup" preserve="all" />
     <type fullname="SellingTruck" preserve="all" />
-    <type fullname="Sieunguoimay.BySpeedMovement" preserve="all" />
+    <type fullname="SellingTruckPath" preserve="all" />
+    <type fullname="SettingsButton" preserve="all" />
+    <type fullname="SettingsPopup" preserve="all" />
+    <type fullname="SfxPlayer" preserve="all" />
+    <type fullname="SheetSupervisorView" preserve="all" />
+    <type fullname="SheetTriggerBox" preserve="all" />
+    <type fullname="ShopChestDailyCountCSO" preserve="all" />
+    <type fullname="ShopChestDailyCountView" preserve="all" />
+    <type fullname="ShopChestItemAvailableCSO" preserve="all" />
+    <type fullname="ShopChestItemCSO" preserve="all" />
+    <type fullname="ShopChestItemPurchasingCSO" preserve="all" />
+    <type fullname="ShopChestItemPurchasingCSOView" preserve="all" />
+    <type fullname="ShopChestItemView" preserve="all" />
+    <type fullname="ShopComposition.ShopItemVisualConfig_Chest" preserve="all" />
+    <type fullname="ShopComposition.ShopItemVisualConfig_SupervisorCard" preserve="all" />
+    <type fullname="ShopComposition.ShopItemVisualConfig_VillageStatue" preserve="all" />
+    <type fullname="ShopConfig" preserve="all" />
+    <type fullname="ShopContentList" preserve="all" />
+    <type fullname="ShopItem" preserve="all" />
+    <type fullname="ShopItem_BuyCountCSO" preserve="all" />
+    <type fullname="ShopItem_IAPCSO" preserve="all" />
+    <type fullname="ShopItem_RewardCSO_Chest" preserve="all" />
+    <type fullname="ShopItem_RewardsCSO" preserve="all" />
+    <type fullname="ShopItem_RewardsCSOView" preserve="all" />
+    <type fullname="ShopItem_RVTypeCSO" preserve="all" />
+    <type fullname="ShopItemPurchasingDefault" preserve="all" />
+    <type fullname="ShopItemSpawner" preserve="all" />
+    <type fullname="ShopItemView" preserve="all" />
+    <type fullname="ShopItemVisualConfigView" preserve="all" />
+    <type fullname="ShoppingButtonNoti" preserve="all" />
+    <type fullname="ShopPopup" preserve="all" />
+    <type fullname="ShopSectionInjector" preserve="all" />
+    <type fullname="ShopView" preserve="all" />
+    <type fullname="SideButtonTimer" preserve="all" />
+    <type fullname="Sieunguoimay.Components.AndTrigger" preserve="all" />
+    <type fullname="Sieunguoimay.Components.AnimationEvent" preserve="all" />
+    <type fullname="Sieunguoimay.Components.BySpeedMovement" preserve="all" />
+    <type fullname="Sieunguoimay.Components.ContentSizeFilterRefresher" preserve="all" />
+    <type fullname="Sieunguoimay.Components.EventSwitch" preserve="all" />
+    <type fullname="Sieunguoimay.Components.ExecuteInNextFrame" preserve="all" />
+    <type fullname="Sieunguoimay.Components.InfiniteAutoLerp" preserve="all" />
+    <type fullname="Sieunguoimay.Components.OrTrigger" preserve="all" />
+    <type fullname="Sieunguoimay.Components.RomanFormatter" preserve="all" />
+    <type fullname="Sieunguoimay.Core.Misc.ActionSubscriber" preserve="all" />
+    <type fullname="Sieunguoimay.Core.Misc.RandomSetter" preserve="all" />
+    <type fullname="Sieunguoimay.DecisionGraph.Actions.Mono.YaasRandomDelayActionMono" preserve="all" />
+    <type fullname="SimpleNoticeTextView" preserve="all" />
+    <type fullname="SimplePort" preserve="all" />
+    <type fullname="SimpleSetupCSO" preserve="all" />
+    <type fullname="SimpleTransporterQueue" preserve="all" />
+    <type fullname="SingleValueTriggerCSO" preserve="all" />
+    <type fullname="SliderModifier" preserve="all" />
+    <type fullname="SmallStarterPackPopup" preserve="all" />
+    <type fullname="SmallStarterPackPopupShowCSO" preserve="all" />
+    <type fullname="SmartSpawner.CommonSpawnerModule" preserve="all" />
+    <type fullname="SmartSpawner.ComposableListToSmartSpawner" preserve="all" />
+    <type fullname="SmartSpawner.SmartListSpawner" preserve="all" />
+    <type fullname="SmartSpawner.UpgradeButtonCostsSpawnerModule" preserve="all" />
+    <type fullname="SocialController" preserve="all" />
+    <type fullname="SocialManager" preserve="all" />
+    <type fullname="SocialNoticePopup" preserve="all" />
+    <type fullname="SoundManager" preserve="all" />
+    <type fullname="SpawnedParticleSystemColorSetter" preserve="all" />
+    <type fullname="SpecialDelivery.GiftBox" preserve="all" />
+    <type fullname="SpecialDelivery.GiftBoxOpener" preserve="all" />
+    <type fullname="SpecialDelivery.GiftBoxOpenerView" preserve="all" />
+    <type fullname="SpecialDelivery.LevelUpRewardClaimer" preserve="all" />
+    <type fullname="SpecialDelivery.LevelUpRewardClaimerView" preserve="all" />
+    <type fullname="SpecialDelivery.NewMilestone.NewMilestone" preserve="all" />
+    <type fullname="SpecialDelivery.NewMilestone.NewMilestoneManager" preserve="all" />
+    <type fullname="SpecialDelivery.NewMilestone.NewMilestoneView" preserve="all" />
+    <type fullname="SpecialDelivery.NewMilestone.VariableDoubleChangedActionCSO" preserve="all" />
+    <type fullname="SpecialDelivery.SpecialDelivery_FixedListOpenerInjector" preserve="all" />
+    <type fullname="SpecialDelivery.SpecialDeliveryCSOView" preserve="all" />
+    <type fullname="SpecialDelivery.SpecialDeliveryManager" preserve="all" />
+    <type fullname="SpecialDelivery_ButtonView" preserve="all" />
+    <type fullname="SpecialDeliveryCSOView_MilestoneProgress" preserve="all" />
+    <type fullname="SpecialDeliveryCSOView_RewardProgress" preserve="all" />
+    <type fullname="SpecialDeliveryManagerInjector" preserve="all" />
+    <type fullname="SpecialDeliveryMilestonePopup" preserve="all" />
+    <type fullname="SpecialDeliveryPopup" preserve="all" />
+    <type fullname="SpecialDeliveryRewardsDetailView" preserve="all" />
+    <type fullname="SpecialDeliveryRewardsPopup" preserve="all" />
+    <type fullname="SpecialDeliveryVehicle_Runner" preserve="all" />
+    <type fullname="SpecialDeliveryVehicle_Step" preserve="all" />
+    <type fullname="SpecialDeliveryVehicle_Transport" preserve="all" />
+    <type fullname="SpecialDeliveryVehicle_TransportAvatar" preserve="all" />
     <type fullname="SpeedController" preserve="all" />
+    <type fullname="SpriteCollector" preserve="all" />
+    <type fullname="SquareLog" preserve="all" />
+    <type fullname="SquareMillingLog" preserve="all" />
     <type fullname="SquareMillingMachineGen_01" preserve="all" />
     <type fullname="SquareMillingMachineGen_02" preserve="all" />
+    <type fullname="StackStorageData" preserve="all" />
     <type fullname="StackStorageDataMono" preserve="all" />
+    <type fullname="StackStorageGroup" preserve="all" />
+    <type fullname="StackStorageGroupData" preserve="all" />
+    <type fullname="StatisticsPopup" preserve="all" />
+    <type fullname="StorageCapMod_Supervisor" preserve="all" />
+    <type fullname="StorageCapModParameters" preserve="all" />
+    <type fullname="StorageMeta" preserve="all" />
     <type fullname="StoragePack" preserve="all" />
+    <type fullname="StorageRuler" preserve="all" />
+    <type fullname="StorageShadow" preserve="all" />
+    <type fullname="StorageSupervisor" preserve="all" />
+    <type fullname="StringCSOView" preserve="all" />
+    <type fullname="SubscriptionPriceFormatter" preserve="all" />
+    <type fullname="SubViewList" preserve="all" />
+    <type fullname="SubViewList_Village" preserve="all" />
+    <type fullname="SuperImage" preserve="all" />
+    <type fullname="SuperSimpleMover" preserve="all" />
+    <type fullname="Supervisor" preserve="all" />
+    <type fullname="SupervisorButtonNoti" preserve="all" />
+    <type fullname="SupervisorDetailsView" preserve="all" />
+    <type fullname="SupervisorFinder" preserve="all" />
+    <type fullname="SupervisorGroupView_Machines" preserve="all" />
+    <type fullname="SupervisorListView" preserve="all" />
+    <type fullname="SupervisorListView_Auto" preserve="all" />
+    <type fullname="SupervisorListView_Auto_Cons" preserve="all" />
+    <type fullname="SupervisorListView_Auto_Legend" preserve="all" />
+    <type fullname="SupervisorListView_Auto_VillageIsland" preserve="all" />
+    <type fullname="SupervisorManager" preserve="all" />
+    <type fullname="SupervisorMissionPlan" preserve="all" />
+    <type fullname="SupervisorModule_Collector" preserve="all" />
+    <type fullname="SupervisorModuleView_Collector" preserve="all" />
+    <type fullname="SupervisorPopup" preserve="all" />
+    <type fullname="SupervisorPopupCaller" preserve="all" />
+    <type fullname="SupervisorSpawner" preserve="all" />
+    <type fullname="SupervisorsPopup" preserve="all" />
+    <type fullname="SupervisorView" preserve="all" />
+    <type fullname="SupervisorView_Construction" preserve="all" />
+    <type fullname="SupervisorView_Legend" preserve="all" />
+    <type fullname="SupervisorView_Storage" preserve="all" />
+    <type fullname="SupervisorView_Vehicle" preserve="all" />
+    <type fullname="SupervisorView_Village" preserve="all" />
+    <type fullname="TaggedComposedSO" preserve="all" />
+    <type fullname="TapjoyOfferwallCaller" preserve="all" />
+    <type fullname="TapTapButton" preserve="all" />
+    <type fullname="TargetFactoryNameCSO" preserve="all" />
+    <type fullname="TargetTimeCSO" preserve="all" />
+    <type fullname="TargetTimeCSOView" preserve="all" />
+    <type fullname="TextFlatten" preserve="all" />
     <type fullname="TexTilingMatchScale" preserve="all" />
+    <type fullname="TextToTMPHelper" preserve="all" />
+    <type fullname="TextureBlender" preserve="all" />
+    <type fullname="TextureDestroy" preserve="all" />
+    <type fullname="ThemedDecor.XMasHat" preserve="all" />
+    <type fullname="ThemedDecorDisplayer" preserve="all" />
+    <type fullname="ThemedDecorItem" preserve="all" />
+    <type fullname="ThemedDecorItem_BuyNotiCSO" preserve="all" />
+    <type fullname="ThemedDecorItemDetailCSO" preserve="all" />
+    <type fullname="ThemedDecorItemDetailCSOView" preserve="all" />
+    <type fullname="ThemedDecorItemInjector" preserve="all" />
+    <type fullname="ThemedDecorItemPopup" preserve="all" />
+    <type fullname="ThemedDecorItemView" preserve="all" />
+    <type fullname="ThemedDecorManager" preserve="all" />
+    <type fullname="ThemedDecorManagerAutoInjector" preserve="all" />
+    <type fullname="ThemedDecorManagerView" preserve="all" />
+    <type fullname="ThemedDecorObject" preserve="all" />
+    <type fullname="TicketOfferView" preserve="all" />
+    <type fullname="TicketView" preserve="all" />
+    <type fullname="TimeBasedAvailableCSO" preserve="all" />
+    <type fullname="TimeBasedAvailableCSOView" preserve="all" />
+    <type fullname="TimeTravelMissionPlan" preserve="all" />
+    <type fullname="TimeTravelView" preserve="all" />
+    <type fullname="TimeValueTrigger" preserve="all" />
+    <type fullname="TMP_SpriteAssetProviderCSO" preserve="all" />
+    <type fullname="TMP_SpriteAssetProviderCSOView" preserve="all" />
+    <type fullname="TopRightButtonVisualConfig" preserve="all" />
+    <type fullname="TopRightButtonVisualConfigView" preserve="all" />
+    <type fullname="TopRightCSO" preserve="all" />
+    <type fullname="TopRightCSOInjector" preserve="all" />
     <type fullname="TrainPart" preserve="all" />
+    <type fullname="Tree" preserve="all" />
+    <type fullname="TreeKindSelectionLifecycleView" preserve="all" />
+    <type fullname="TreeSlot" preserve="all" />
+    <type fullname="TreeSlotGroup" preserve="all" />
+    <type fullname="TreeStage" preserve="all" />
+    <type fullname="TreeStandingLog" preserve="all" />
+    <type fullname="TutorialCurrencyValues" preserve="all" />
+    <type fullname="TutorialDebugViewer" preserve="all" />
+    <type fullname="TutorialManager" preserve="all" />
+    <type fullname="TutorialParameters" preserve="all" />
+    <type fullname="TutorialPhase" preserve="all" />
+    <type fullname="TutorialPhaseSpeech" preserve="all" />
+    <type fullname="TutorialPhaseSpeechAlternate" preserve="all" />
+    <type fullname="TutorialPhaseView" preserve="all" />
+    <type fullname="TutorialPlayingValues" preserve="all" />
+    <type fullname="TutorialStep" preserve="all" />
+    <type fullname="TutorialStepView" preserve="all" />
+    <type fullname="TutorialUIForcePress" preserve="all" />
+    <type fullname="TutorialUIForcePressFollower" preserve="all" />
+    <type fullname="TutorialUIValues" preserve="all" />
+    <type fullname="UI.Popups.Subs.LegendaryGreetingModuleView" preserve="all" />
+    <type fullname="UI.Popups.Subs.MonoConditionTrigger" preserve="all" />
+    <type fullname="UI.Popups.VillagesPopup" preserve="all" />
+    <type fullname="UIController" preserve="all" />
+    <type fullname="UIGradient" preserve="all" />
+    <type fullname="UIPagingContent" preserve="all" />
+    <type fullname="UIPagingGroup" preserve="all" />
+    <type fullname="UITransition_FadeSlide" preserve="all" />
+    <type fullname="UITransitor_MainUI" preserve="all" />
+    <type fullname="UIValueTrigger" preserve="all" />
+    <type fullname="UnityEngine.UI.FlexibleGridLayoutGroup" preserve="all" />
+    <type fullname="UniversalActionManager" preserve="all" />
+    <type fullname="UniversalCompensationCSO" preserve="all" />
+    <type fullname="UniversalCompositions" preserve="all" />
+    <type fullname="UniversalInfoPanelCSO" preserve="all" />
+    <type fullname="UniversalMissionInfo" preserve="all" />
+    <type fullname="UniversalRewardManager" preserve="all" />
+    <type fullname="UniversalStatistics" preserve="all" />
+    <type fullname="UniverseController" preserve="all" />
+    <type fullname="UpdatePopup" preserve="all" />
+    <type fullname="UpgradeFX" preserve="all" />
+    <type fullname="UserAvatarContainer" preserve="all" />
+    <type fullname="UserAvatarContainerView" preserve="all" />
+    <type fullname="UserAvatarCSO" preserve="all" />
+    <type fullname="UserAvatarCSOView" preserve="all" />
+    <type fullname="UserAvatarNotiCSO" preserve="all" />
+    <type fullname="UserAvatarPurchasePopup" preserve="all" />
+    <type fullname="UserAvatarSelector" preserve="all" />
+    <type fullname="UserAvatarSelectPopup" preserve="all" />
+    <type fullname="UserAvatarUnlockByManagerCSO" preserve="all" />
+    <type fullname="UserInfoConfigs" preserve="all" />
+    <type fullname="UserInfoCSO" preserve="all" />
+    <type fullname="UserInfoCSOView" preserve="all" />
+    <type fullname="UserInfoPopup" preserve="all" />
+    <type fullname="UserNameChangeCSO" preserve="all" />
+    <type fullname="UserNameChangeCSOView" preserve="all" />
+    <type fullname="UserNameChangePopup" preserve="all" />
+    <type fullname="UserTracker" preserve="all" />
+    <type fullname="ValueBindingCSO" preserve="all" />
+    <type fullname="ValueCSOMissionPlan" preserve="all" />
+    <type fullname="ValueFromFormula" preserve="all" />
+    <type fullname="ValueMissionPlan" preserve="all" />
+    <type fullname="VariableBoolChangedActionCSO" preserve="all" />
+    <type fullname="VehicleAutomateSplitTestData" preserve="all" />
+    <type fullname="VehicleAutomateSplitTestHandler" preserve="all" />
+    <type fullname="VehicleListView" preserve="all" />
+    <type fullname="VehicleMoveButton" preserve="all" />
+    <type fullname="VehicleSleepDisplay" preserve="all" />
+    <type fullname="VehicleSupervisor" preserve="all" />
+    <type fullname="VehicleView" preserve="all" />
+    <type fullname="VideoListener" preserve="all" />
+    <type fullname="Village.Island.Island" preserve="all" />
+    <type fullname="Village.Island.IslandView" preserve="all" />
+    <type fullname="Village.VillageBuildingCustomEffect" preserve="all" />
+    <type fullname="Village.VillageBuildingCustomEffectParameters" preserve="all" />
+    <type fullname="VillageBuilding" preserve="all" />
+    <type fullname="VillageBuildingNotification" preserve="all" />
+    <type fullname="VillageBuildingParameters" preserve="all" />
+    <type fullname="VillageBuildingPopup" preserve="all" />
+    <type fullname="VillageBuildingsPopup" preserve="all" />
+    <type fullname="VillageBuildingView" preserve="all" />
+    <type fullname="VillageBuildingView_LifeCycle" preserve="all" />
+    <type fullname="VillageBuildingView_UI" preserve="all" />
+    <type fullname="VillageCollector" preserve="all" />
+    <type fullname="VillageCurrencyCollectorView" preserve="all" />
+    <type fullname="VillageHideable" preserve="all" />
+    <type fullname="VillageManager" preserve="all" />
+    <type fullname="VillageManagerView" preserve="all" />
+    <type fullname="VillageOfflinePopup" preserve="all" />
+    <type fullname="VillageParameters" preserve="all" />
+    <type fullname="VillageRefreshShopPopup" preserve="all" />
+    <type fullname="VillageShop" preserve="all" />
+    <type fullname="VillageShopItemView" preserve="all" />
+    <type fullname="VillageShopPopup" preserve="all" />
+    <type fullname="VillageShopStatuesSection" preserve="all" />
+    <type fullname="VillageShopStatuesSectionView" preserve="all" />
+    <type fullname="VillageShopView" preserve="all" />
+    <type fullname="VillageSlot" preserve="all" />
+    <type fullname="VillageStatue" preserve="all" />
+    <type fullname="VillageStatueBoughtCountCSO" preserve="all" />
+    <type fullname="VillageStatueOwned" preserve="all" />
+    <type fullname="VillageStatueView" preserve="all" />
+    <type fullname="VillageStatueView_VisualLists" preserve="all" />
+    <type fullname="VillageStatueVisual" preserve="all" />
+    <type fullname="VillageStatueVisualComposedView" preserve="all" />
+    <type fullname="VillageStatueVisualView" preserve="all" />
+    <type fullname="VillageSupervisor" preserve="all" />
+    <type fullname="VillageSupervisorArea" preserve="all" />
+    <type fullname="VillageSupervisorsPopup" preserve="all" />
+    <type fullname="VillageToggle" preserve="all" />
+    <type fullname="VillageVisual" preserve="all" />
+    <type fullname="VillageX2GoldPopup" preserve="all" />
+    <type fullname="VipClubPopup" preserve="all" />
+    <type fullname="VIPInvestorPopup" preserve="all" />
+    <type fullname="VIPManagerGiftPopup" preserve="all" />
     <type fullname="Wall" preserve="all" />
     <type fullname="WilliamExtra.ActionSequence.ActionSequence" preserve="all" />
+    <type fullname="WilliamExtra.ActionSequence.ASAction" preserve="all" />
     <type fullname="WilliamExtra.ActionSequence.ASDelay" preserve="all" />
+    <type fullname="WilliamExtra.ActionSequence.ASMoveNode" preserve="all" />
     <type fullname="WilliamExtra.ActionSequence.ASMovePath" preserve="all" />
+    <type fullname="WilliamExtra.ActionSequence.ASMovePathSpecific" preserve="all" />
+    <type fullname="WilliamExtra.ActionSequence.ASPositioning" preserve="all" />
     <type fullname="WilliamExtra.ActionSequence.ASRandom" preserve="all" />
     <type fullname="WilliamExtra.ActionSequence.ASSequential" preserve="all" />
+    <type fullname="WilliamExtra.ActionSequence.ASSnapPath" preserve="all" />
     <type fullname="WilliamExtra.AnimationClipEventTeller" preserve="all" />
     <type fullname="WilliamExtra.AnimatorLayerWeight" preserve="all" />
     <type fullname="WilliamExtra.AnimatorRandomOffset" preserve="all" />
+    <type fullname="WilliamExtra.BigTextSetter" preserve="all" />
     <type fullname="WilliamExtra.BoolTrigger" preserve="all" />
+    <type fullname="WilliamExtra.BridgeMethod" preserve="all" />
+    <type fullname="WilliamExtra.CanvasGroupModifier" preserve="all" />
+    <type fullname="WilliamExtra.Composition.AbsIntCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.ACostCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.ActionCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.AvailableCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.AvailableCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.BoolCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.BoughtCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.BoughtCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.BridgeIntervalActionCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.BridgeIntervalActionCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.BuyableCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.BuyableCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.ComposableViewInjector" preserve="all" />
+    <type fullname="WilliamExtra.Composition.ComposedSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.ConditionCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.ConditionGroupCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.ConstantBoolCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.ConstantCurrencyCostCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.ConstantDoubleCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.ConstantIntCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.ConstantStringCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.ContainerCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.CurrencyCostCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.CustomComposableListSpawner" preserve="all" />
+    <type fullname="WilliamExtra.Composition.DoubleCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.DynamicComposableView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.FlexibleNameCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.FormulaCalculatorCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.GenericComposableListSpawner" preserve="all" />
+    <type fullname="WilliamExtra.Composition.GUIDReferenceCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.GUIDReferenceCSOView_ViewDataInjector" preserve="all" />
+    <type fullname="WilliamExtra.Composition.HiddenCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.IntervalActionCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.IntervalActionCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.LevelCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.LevelCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.LeveledCurrencyCostCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.LeveledDoubleCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.LeveledEffectCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.LeveledEffectCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.LevelMaxedCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.LevelUpActionCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.LimitedCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.LimitedCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.LocalizedNameCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.LockedCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.LockedCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.NameCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.NotiCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.NotiGroupCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.RemainingCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.RemainingCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.RewardableCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.RewardableCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.RewardedCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.RewardedCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.SimpleComposedSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.SingleValueProviderCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.SoldOutCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.SoldOutCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.SpriteCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.StringBuilderCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.ValueCSOView" preserve="all" />
+    <type fullname="WilliamExtra.Composition.VariableBoolCSO" preserve="all" />
+    <type fullname="WilliamExtra.Composition.VariableDoubleCSO" preserve="all" />
+    <type fullname="WilliamExtra.ContentSizeLimiter" preserve="all" />
+    <type fullname="WilliamExtra.DataArchitecture.DataSetter" preserve="all" />
+    <type fullname="WilliamExtra.DataArchitecture.Invoker" preserve="all" />
+    <type fullname="WilliamExtra.DataArchitecture.MonoBool" preserve="all" />
+    <type fullname="WilliamExtra.DataArchitecture.MonoChaseFloat" preserve="all" />
+    <type fullname="WilliamExtra.DataArchitecture.MonoChaseSlider" preserve="all" />
+    <type fullname="WilliamExtra.DataArchitecture.MonoColor" preserve="all" />
+    <type fullname="WilliamExtra.DataArchitecture.MonoFloat" preserve="all" />
+    <type fullname="WilliamExtra.DataArchitecture.MonoRandomValue" preserve="all" />
+    <type fullname="WilliamExtra.DataArchitecture.MonoUnityObject" preserve="all" />
+    <type fullname="WilliamExtra.DataArchitecture.ReflectionInjectorMono" preserve="all" />
+    <type fullname="WilliamExtra.DelayRunner" preserve="all" />
+    <type fullname="WilliamExtra.DirtyTrigger" preserve="all" />
+    <type fullname="WilliamExtra.DummyMono" preserve="all" />
+    <type fullname="WilliamExtra.EnumTrigger" preserve="all" />
+    <type fullname="WilliamExtra.GraphicModifier" preserve="all" />
+    <type fullname="WilliamExtra.InactiveIngame" preserve="all" />
+    <type fullname="WilliamExtra.LayoutElementModifier" preserve="all" />
+    <type fullname="WilliamExtra.LayoutRefresher" preserve="all" />
+    <type fullname="WilliamExtra.LocalTooltip" preserve="all" />
+    <type fullname="WilliamExtra.Locator" preserve="all" />
+    <type fullname="WilliamExtra.MonoAnim.Fader" preserve="all" />
+    <type fullname="WilliamExtra.MonoAnim.Glider" preserve="all" />
+    <type fullname="WilliamExtra.MonoAnim.MonoCanvasGroupFader" preserve="all" />
+    <type fullname="WilliamExtra.MonoAnim.MonoColorRun" preserve="all" />
+    <type fullname="WilliamExtra.MonoAnim.MonoGraphicFader" preserve="all" />
+    <type fullname="WilliamExtra.MonoAnim.MonoPunch" preserve="all" />
+    <type fullname="WilliamExtra.MonoAnim.MonoRotate" preserve="all" />
     <type fullname="WilliamExtra.MonoAnim.MonoScale" preserve="all" />
     <type fullname="WilliamExtra.MonoAnim.MonoTranslate" preserve="all" />
+    <type fullname="WilliamExtra.MonoAnim.MonoWait" preserve="all" />
     <type fullname="WilliamExtra.MonoAnim.Mover" preserve="all" />
+    <type fullname="WilliamExtra.MonoAnim.QuickTimer" preserve="all" />
+    <type fullname="WilliamExtra.MonoAnim.Zoomer" preserve="all" />
+    <type fullname="WilliamExtra.MonoLogger" preserve="all" />
+    <type fullname="WilliamExtra.NumberCompareTrigger" preserve="all" />
+    <type fullname="WilliamExtra.NumberGroupee" preserve="all" />
+    <type fullname="WilliamExtra.NumberGrouper" preserve="all" />
+    <type fullname="WilliamExtra.NumberTransformer" preserve="all" />
+    <type fullname="WilliamExtra.ObjectToggler" preserve="all" />
+    <type fullname="WilliamExtra.OnLifecycleStage" preserve="all" />
     <type fullname="WilliamExtra.OnUpdateStage" preserve="all" />
+    <type fullname="WilliamExtra.OnUpdateStage_IntervalWithDelay" preserve="all" />
     <type fullname="WilliamExtra.Pathing.NodeMover" preserve="all" />
     <type fullname="WilliamExtra.Pathing.OWNode" preserve="all" />
     <type fullname="WilliamExtra.Pathing.OWNodeGroup" preserve="all" />
     <type fullname="WilliamExtra.Pathing.OWNodeGroupConnector" preserve="all" />
+    <type fullname="WilliamExtra.Pathing.OWNodeReplacement" preserve="all" />
     <type fullname="WilliamExtra.Pathing.SimpleMover" preserve="all" />
     <type fullname="WilliamExtra.Pathing.SimplePath" preserve="all" />
     <type fullname="WilliamExtra.Pathing.SimplePathMover" preserve="all" />
+    <type fullname="WilliamExtra.PositionChangePasser" preserve="all" />
+    <type fullname="WilliamExtra.RectTransformFollower" preserve="all" />
+    <type fullname="WilliamExtra.RectTransformPositioner" preserve="all" />
+    <type fullname="WilliamExtra.ReEnabler" preserve="all" />
     <type fullname="WilliamExtra.RelativeSortingOrder" preserve="all" />
+    <type fullname="WilliamExtra.ScaleButton" preserve="all" />
+    <type fullname="WilliamExtra.ScrollSnapper" preserve="all" />
+    <type fullname="WilliamExtra.SelfDestroyer" preserve="all" />
+    <type fullname="WilliamExtra.ShadowDistanceChanger" preserve="all" />
     <type fullname="WilliamExtra.Shadows.CachedMeshDrawer" preserve="all" />
     <type fullname="WilliamExtra.Shadows.DisableShadowCasting" preserve="all" />
     <type fullname="WilliamExtra.Shadows.ShadowMeshDrawAgent" preserve="all" />
     <type fullname="WilliamExtra.SiblingIndexer" preserve="all" />
+    <type fullname="WilliamExtra.SimpleBoolTrigger" preserve="all" />
+    <type fullname="WilliamExtra.SimpleSpawner" preserve="all" />
+    <type fullname="WilliamExtra.SimpleTooltip" preserve="all" />
+    <type fullname="WilliamExtra.SimpleTooltipCaller" preserve="all" />
+    <type fullname="WilliamExtra.SimpleTrigger" preserve="all" />
+    <type fullname="WilliamExtra.SingleTrigger" preserve="all" />
+    <type fullname="WilliamExtra.StaticMappedMono" preserve="all" />
     <type fullname="WilliamExtra.StringTrigger" preserve="all" />
+    <type fullname="WilliamExtra.TextBuilder_V1" preserve="all" />
+    <type fullname="WilliamExtra.TextBuilderOverrider" preserve="all" />
+    <type fullname="WilliamExtra.TextTransformer" preserve="all" />
+    <type fullname="WilliamExtra.Times.TimeIntervalScriptable" preserve="all" />
     <type fullname="WilliamExtra.TransformChangePasser" preserve="all" />
+    <type fullname="WilliamExtra.TransformChildChangePasser" preserve="all" />
+    <type fullname="WilliamExtra.TransformConstrainer" preserve="all" />
     <type fullname="WilliamExtra.TransformFollower" preserve="all" />
+    <type fullname="WilliamExtra.TransformHierarchyChangePasser" preserve="all" />
+    <type fullname="WilliamExtra.TransformMatcher" preserve="all" />
+    <type fullname="WilliamExtra.TransformPositioner" preserve="all" />
     <type fullname="WilliamExtra.TweenSpeedup" preserve="all" />
+    <type fullname="WilliamExtra.UI.Recycler" preserve="all" />
+    <type fullname="WilliamExtra.UI.RecyclerHolder" preserve="all" />
+    <type fullname="WilliamExtra.UI.ScrollRecyclerEvaluator" preserve="all" />
+    <type fullname="WilliamExtra.UI.UITabButton" preserve="all" />
+    <type fullname="WilliamExtra.UI.UITabContainer" preserve="all" />
+    <type fullname="WilliamExtra.UI.UITabContent" preserve="all" />
+    <type fullname="WilliamExtra.UI.UITabGroup" preserve="all" />
+    <type fullname="WilliamExtra.UI.UITabListener" preserve="all" />
+    <type fullname="WilliamExtra.UIForcer" preserve="all" />
     <type fullname="WilliamExtra.VehicleTurning" preserve="all" />
     <type fullname="WilliamExtra.VehicleWheel" preserve="all" />
     <type fullname="WorkerAvatar" preserve="all" />
@@ -129,54 +1534,431 @@
     <type fullname="WorkerAvatarWrapper" preserve="all" />
     <type fullname="WorkerBodypart" preserve="all" />
     <type fullname="WorkerCommon" preserve="all" />
+    <type fullname="WorkerListView" preserve="all" />
     <type fullname="WorkerTool" preserve="all" />
+    <type fullname="WorkerView" preserve="all" />
     <type fullname="WorkingBase" preserve="all" />
     <type fullname="WorldAppearance" preserve="all" />
+    <type fullname="WorldBoundsComponent" preserve="all" />
+    <type fullname="WorldCam" preserve="all" />
     <type fullname="WorldCamBillboard" preserve="all" />
-    <type fullname="Npu.AssetManager.AssetSelector" preserve="nothing" serialized="true" />
-    <type fullname="AnimationInstancing.AnimationEvent" preserve="nothing" serialized="true" />
-    <type fullname="AnimationInstancing.AnimationInfo" preserve="nothing" serialized="true" />
-    <type fullname="AnimationInstancing.AnimationTexture" preserve="nothing" serialized="true" />
-    <type fullname="AnimationInstancing.ExtraBoneInfo" preserve="nothing" serialized="true" />
+    <type fullname="WorldCamMover" preserve="all" />
+    <type fullname="WorldCompositions" preserve="all" />
+    <type fullname="WorldCurrencyAmountCSO" preserve="all" />
+    <type fullname="WorldFirstPersonCam" preserve="all" />
+    <type fullname="WorldGameEvent" preserve="all" />
+    <type fullname="WorldGameEventButton" preserve="all" />
+    <type fullname="WorldGameEventView" preserve="all" />
+    <type fullname="WorldMisc" preserve="all" />
+    <type fullname="WorldMiscCSO" preserve="all" />
+    <type fullname="WorldMissionPlan" preserve="all" />
+    <type fullname="WorldShop" preserve="all" />
+    <type fullname="WorldStatistics" preserve="all" />
+    <type fullname="WorldSwitcher" preserve="all" />
+    <type fullname="WorldToUIFollower" preserve="all" />
+    <type fullname="WorldTransitionPopup" preserve="all" />
+    <type fullname="WorldValueTrigger" preserve="all" />
+    <type fullname="WorldVisual" preserve="all" />
+    <type fullname="X2GoldPopup" preserve="all" />
+    <type fullname="X2SpeedPopup" preserve="all" />
+    <type fullname="XmasGiftBox" preserve="all" />
+    <type fullname="XmasGiftBoxAnyOpenerOpened" preserve="all" />
+    <type fullname="XmasGiftBoxModel" preserve="all" />
+    <type fullname="XmasGiftBoxOpener" preserve="all" />
+    <type fullname="XmasGiftBoxOpenerListInjector" preserve="all" />
+    <type fullname="XmasGiftBoxOpenerOpened" preserve="all" />
+    <type fullname="XmasGiftBoxOpenerView" preserve="all" />
+    <type fullname="XmasGiftBoxRefreshBuyableCSO" preserve="all" />
+    <type fullname="XmasGiftBoxUIView" preserve="all" />
+    <type fullname="XmasGiftChanceRewardView" preserve="all" />
+    <type fullname="XmasGiftOpenCountRewardView" preserve="all" />
+    <type fullname="XmasGiftOpenDetailPopup" preserve="all" />
+    <type fullname="XmasGiftOpenDetailView" preserve="all" />
+    <type fullname="XmasGiftRewardsDetailView" preserve="all" />
+    <type fullname="XmasGiftRewardsPopup" preserve="all" />
+    <type fullname="XmasMainPopup" preserve="all" />
+    <type fullname="XmasMissionManager" preserve="all" />
+    <type fullname="XmasOrderInterceptor" preserve="all" />
+    <type fullname="XmasSnowflakeRefill" preserve="all" />
+    <type fullname="XmasSnowflakeRefillView" preserve="all" />
+    <type fullname="XmasSpecificCSO" preserve="all" />
+    <type fullname="XmasSpecificCSOView" preserve="all" />
+    <type fullname="XMasTeaserPopup" preserve="all" />
+    <type fullname="XmasTree" preserve="all" />
+    <type fullname="XmasTreeEvolutions" preserve="all" />
+    <type fullname="XmasTreeEvolutionsUIView" preserve="all" />
+    <type fullname="XmasTreeEvolutionsView" preserve="all" />
+    <type fullname="XmasTreeGrowth" preserve="all" />
+    <type fullname="XmasTreeGrowthView" preserve="all" />
+    <type fullname="XmasTreeInjector" preserve="all" />
+    <type fullname="XmasTreeLevelUpEffect" preserve="all" />
+    <type fullname="XmasTreeLevelView" preserve="all" />
+    <type fullname="XmasTreeUIView" preserve="all" />
+    <type fullname="XmasTreeView" preserve="all" />
+    <type fullname="ACurrentWorldView/WorldEvent" preserve="nothing" serialized="true" />
+    <type fullname="AMissionPlan/ConfigExtraRewards" preserve="nothing" serialized="true" />
+    <type fullname="AMissionPlan/ConfigGamePass" preserve="nothing" serialized="true" />
+    <type fullname="AMissionPlan/ConfigMinigame" preserve="nothing" serialized="true" />
+    <type fullname="AMissionPlan/DescExtra" preserve="nothing" serialized="true" />
+    <type fullname="AStorageCapacityModifier/ModifierEvent" preserve="nothing" serialized="true" />
+    <type fullname="ActionTrigger/TriggerChain" preserve="nothing" serialized="true" />
     <type fullname="AudioClipSelector" preserve="nothing" serialized="true" />
     <type fullname="AudioSourcePlayer/Clip" preserve="nothing" serialized="true" />
-    <type fullname="Sieunguoimay.UnityEvent_Int" preserve="nothing" serialized="true" />
+    <type fullname="BlueprintCollectionConfig" preserve="nothing" serialized="true" />
+    <type fullname="BlueprintInfo" preserve="nothing" serialized="true" />
+    <type fullname="BlueprintInfo/UpgradeCost" preserve="nothing" serialized="true" />
+    <type fullname="BlueprintRarityConfig" preserve="nothing" serialized="true" />
+    <type fullname="BlueprintReward" preserve="nothing" serialized="true" />
+    <type fullname="BoardGame.RollDice.AnimationConfig`1[System.Single]" preserve="nothing" serialized="true" />
+    <type fullname="BoardGame.RollDice.AnimationConfig`1[UnityEngine.Transform]" preserve="nothing" serialized="true" />
+    <type fullname="BoardGame.RollDice.AnimationConfig`1[UnityEngine.Vector3]" preserve="nothing" serialized="true" />
+    <type fullname="BoardGame.RollDice.DiceConfig/DiceSide" preserve="nothing" serialized="true" />
+    <type fullname="BoardGame.RollDice.DiceValueCalculator_WinterDefaultBoard/CellRarity" preserve="nothing" serialized="true" />
+    <type fullname="BoardGame.RollDice.DiceValueCalculator_WinterDefaultBoard/RewardRarityConfig" preserve="nothing" serialized="true" />
+    <type fullname="Bool3" preserve="nothing" serialized="true" />
+    <type fullname="BoolEvent" preserve="nothing" serialized="true" />
+    <type fullname="Chest" preserve="nothing" serialized="true" />
+    <type fullname="ChestRewardGeneratingConfig/ProbsGroup" preserve="nothing" serialized="true" />
+    <type fullname="ChestRewardGeneratorCSO_Newpass/ChestRewardsConfigForNewLumberPass" preserve="nothing" serialized="true" />
+    <type fullname="ChestRewardGeneratorCSO_Newpass/ManagerProbability" preserve="nothing" serialized="true" />
+    <type fullname="ChestRewardGeneratorCSO_RareTreeChest/ProbabilityGroup" preserve="nothing" serialized="true" />
+    <type fullname="ChestRewardGeneratorCSO_RareTreeChest/PropabilityItem" preserve="nothing" serialized="true" />
+    <type fullname="ConstructionEffect" preserve="nothing" serialized="true" />
+    <type fullname="ConstructionManagerView/ConfigEvents" preserve="nothing" serialized="true" />
+    <type fullname="ConstructionManagerView/ManagerEvent" preserve="nothing" serialized="true" />
+    <type fullname="ConstructionPartConfig" preserve="nothing" serialized="true" />
+    <type fullname="CurrencyRewardsGenerator" preserve="nothing" serialized="true" />
+    <type fullname="DiamondExchangeSettings" preserve="nothing" serialized="true" />
+    <type fullname="DoubleEvent" preserve="nothing" serialized="true" />
+    <type fullname="EmojiConfig/Pack" preserve="nothing" serialized="true" />
+    <type fullname="EventListener/Listener" preserve="nothing" serialized="true" />
+    <type fullname="FactoryBasedVariant/VariantConfig" preserve="nothing" serialized="true" />
+    <type fullname="FixedNumbersCombiner/Entry" preserve="nothing" serialized="true" />
+    <type fullname="FixedNumbersCombiner/Events" preserve="nothing" serialized="true" />
+    <type fullname="FloatEvent" preserve="nothing" serialized="true" />
+    <type fullname="FormulaDoubleCSO/Entry" preserve="nothing" serialized="true" />
+    <type fullname="FreeChest" preserve="nothing" serialized="true" />
+    <type fullname="GPLevelConfig" preserve="nothing" serialized="true" />
+    <type fullname="GPLevelsConfig" preserve="nothing" serialized="true" />
+    <type fullname="GameConfig/CurrencyInfo" preserve="nothing" serialized="true" />
+    <type fullname="GameConfig/ResourceInfo" preserve="nothing" serialized="true" />
+    <type fullname="GameConfig/RewardInfo" preserve="nothing" serialized="true" />
+    <type fullname="GamePass/ConfigBase" preserve="nothing" serialized="true" />
+    <type fullname="Holiday/HolidayConfig" preserve="nothing" serialized="true" />
+    <type fullname="HolidayCurrencyExchangeCSO/Entry" preserve="nothing" serialized="true" />
+    <type fullname="IndieSystem.Variant.ParamBundle" preserve="nothing" serialized="true" />
+    <type fullname="IndieSystem.Variant.SingleReflectionTarget" preserve="nothing" serialized="true" />
+    <type fullname="IndieSystem.Variant.VariantEntry" preserve="nothing" serialized="true" />
+    <type fullname="IndieSystem.Variant.VariantSetEntry" preserve="nothing" serialized="true" />
+    <type fullname="IndieSystem.Variant.VariantSetter/SelfSettings" preserve="nothing" serialized="true" />
+    <type fullname="InfoPanelCSO_MultipleLineDesc/Line" preserve="nothing" serialized="true" />
+    <type fullname="IntEvent" preserve="nothing" serialized="true" />
+    <type fullname="IntervalReward" preserve="nothing" serialized="true" />
+    <type fullname="LeaderboardGroupIndexVisualConfig" preserve="nothing" serialized="true" />
+    <type fullname="LegendarySupervisor/LegendaryUIVisual" preserve="nothing" serialized="true" />
+    <type fullname="LumberTreeSystem.ForestTreeMediator/Entry" preserve="nothing" serialized="true" />
+    <type fullname="LumberTreeSystem.TreeMigration/Entry" preserve="nothing" serialized="true" />
+    <type fullname="MachineGroup/DataFinder" preserve="nothing" serialized="true" />
+    <type fullname="MachineIconMapping/LevelIcons" preserve="nothing" serialized="true" />
+    <type fullname="MachineMissionPlan/PlanConfig" preserve="nothing" serialized="true" />
+    <type fullname="MachineSupervisorConstraints" preserve="nothing" serialized="true" />
+    <type fullname="MachineSupervisorConstraints/Constraint" preserve="nothing" serialized="true" />
+    <type fullname="MachineSupervisorConstraints/Evolve" preserve="nothing" serialized="true" />
+    <type fullname="MachineVisualConfigByPackage/ConfigItem" preserve="nothing" serialized="true" />
+    <type fullname="MachineVisualConfigByPackage/FallbackPackageConfig" preserve="nothing" serialized="true" />
+    <type fullname="MachineVisualConfigByPackage/PakageTypeName" preserve="nothing" serialized="true" />
+    <type fullname="ManagerCardsGenerator" preserve="nothing" serialized="true" />
+    <type fullname="MilestoneConfig" preserve="nothing" serialized="true" />
+    <type fullname="Minigame/ConfigBase" preserve="nothing" serialized="true" />
+    <type fullname="Minigame/LevelConfig" preserve="nothing" serialized="true" />
+    <type fullname="MinigameManager/ConfigBase" preserve="nothing" serialized="true" />
+    <type fullname="MiscMissionPlan/PlanConfig" preserve="nothing" serialized="true" />
+    <type fullname="Mission2DescriptorStringInterp/Element" preserve="nothing" serialized="true" />
+    <type fullname="MissionReward" preserve="nothing" serialized="true" />
+    <type fullname="NewpassLevelConfig" preserve="nothing" serialized="true" />
+    <type fullname="NewpassOfferController/TriggerOfferEntry" preserve="nothing" serialized="true" />
+    <type fullname="Npu.AssetManager.AssetAddress" preserve="nothing" serialized="true" />
+    <type fullname="Npu.AssetManager.AssetEntry" preserve="nothing" serialized="true" />
+    <type fullname="Npu.AssetManager.AssetManager/LoadGroup" preserve="nothing" serialized="true" />
+    <type fullname="Npu.AssetManager.AssetOverrider/Entry" preserve="nothing" serialized="true" />
+    <type fullname="Npu.AssetManager.AssetSelector" preserve="nothing" serialized="true" />
+    <type fullname="Npu.AssetManager.AssetVariant" preserve="nothing" serialized="true" />
+    <type fullname="Npu.AssetManager.AssetVariants/GroupSub" preserve="nothing" serialized="true" />
+    <type fullname="Npu.AssetManager.AssetVariants/VariantMapperSetting" preserve="nothing" serialized="true" />
+    <type fullname="Npu.Milk.DecisionGraph.BasicsDecisionGraph" preserve="nothing" serialized="true" />
+    <type fullname="Npu.Milk.DecisionGraph.BasicsDecisionGraph/DecisionAction" preserve="nothing" serialized="true" />
+    <type fullname="Npu.Milk.DecisionGraph.BasicsDecisionGraph/DecisionState" preserve="nothing" serialized="true" />
+    <type fullname="OrderConfig/QuantityConfig" preserve="nothing" serialized="true" />
+    <type fullname="OrderManager/ConstructionConfig" preserve="nothing" serialized="true" />
+    <type fullname="OrderManager/SpecialConfig" preserve="nothing" serialized="true" />
+    <type fullname="PackageMapping/Mapping" preserve="nothing" serialized="true" />
+    <type fullname="Padinator/ConditionInfo" preserve="nothing" serialized="true" />
+    <type fullname="Padinator/Offsets" preserve="nothing" serialized="true" />
+    <type fullname="Padinator/Pad" preserve="nothing" serialized="true" />
+    <type fullname="PiggyBankManager/ConfigBase" preserve="nothing" serialized="true" />
+    <type fullname="PiggyBankManager/ConfigVisual" preserve="nothing" serialized="true" />
+    <type fullname="PresetDurationCooldownTimerCSO/WaitingDurationConfig" preserve="nothing" serialized="true" />
+    <type fullname="ProductionStatistics/ProductionLayer" preserve="nothing" serialized="true" />
+    <type fullname="RVFakeBlueprintChest" preserve="nothing" serialized="true" />
+    <type fullname="RVFakeGoldenChest" preserve="nothing" serialized="true" />
+    <type fullname="RVVipInvestorDoorOpener/DoorEntry" preserve="nothing" serialized="true" />
+    <type fullname="RectTransformPositioningSaver/FeatureValue" preserve="nothing" serialized="true" />
+    <type fullname="RectTransformPositioningSaver/Template" preserve="nothing" serialized="true" />
+    <type fullname="ResourceAmount" preserve="nothing" serialized="true" />
+    <type fullname="ResourceAmountRange" preserve="nothing" serialized="true" />
+    <type fullname="RewardCollector/ConfigBase" preserve="nothing" serialized="true" />
+    <type fullname="RewardCollectorSelector" preserve="nothing" serialized="true" />
+    <type fullname="RewardSelector" preserve="nothing" serialized="true" />
+    <type fullname="RewardValue" preserve="nothing" serialized="true" />
+    <type fullname="SaveRequestConfig" preserve="nothing" serialized="true" />
+    <type fullname="Screenshoter/Resolution" preserve="nothing" serialized="true" />
+    <type fullname="Screw.AbstractPopupController/EscapeBehavior" preserve="nothing" serialized="true" />
+    <type fullname="Screw.AbstractPopupController/Events" preserve="nothing" serialized="true" />
+    <type fullname="Screw.AbstractPopupController/PopupEvent" preserve="nothing" serialized="true" />
+    <type fullname="Screw.AnalyticsCustomTrigger/Trigger" preserve="nothing" serialized="true" />
+    <type fullname="Screw.AnalyticsCustomTrigger/WorldInfo" preserve="nothing" serialized="true" />
     <type fullname="Screw.BindingData" preserve="nothing" serialized="true" />
+    <type fullname="Screw.CommonKeyedValues/DoubleValue" preserve="nothing" serialized="true" />
+    <type fullname="Screw.CommonKeyedValues/StringValue" preserve="nothing" serialized="true" />
+    <type fullname="Screw.CompoundConditions" preserve="nothing" serialized="true" />
     <type fullname="Screw.DataBinder/BindingTarget" preserve="nothing" serialized="true" />
     <type fullname="Screw.DataBinder/Member" preserve="nothing" serialized="true" />
     <type fullname="Screw.DataConverter" preserve="nothing" serialized="true" />
+    <type fullname="Screw.DateTimePicker" preserve="nothing" serialized="true" />
+    <type fullname="Screw.Idle.Activator" preserve="nothing" serialized="true" />
+    <type fullname="Screw.Idle.ConditionalActivator" preserve="nothing" serialized="true" />
+    <type fullname="Screw.Idle.CurrencyAmount" preserve="nothing" serialized="true" />
+    <type fullname="Screw.Idle.MicroBoost" preserve="nothing" serialized="true" />
+    <type fullname="Screw.Idle.MicroBoosts" preserve="nothing" serialized="true" />
+    <type fullname="Screw.Idle.ParameterSelector" preserve="nothing" serialized="true" />
+    <type fullname="Screw.Idle.PrestigeBoost" preserve="nothing" serialized="true" />
+    <type fullname="Screw.Idle.PrestigeBoost/Prestige" preserve="nothing" serialized="true" />
+    <type fullname="Screw.Idle.StepFormula/Step" preserve="nothing" serialized="true" />
+    <type fullname="Screw.Idle.UpgradeConstraint" preserve="nothing" serialized="true" />
+    <type fullname="Screw.Inventory/Bonus" preserve="nothing" serialized="true" />
+    <type fullname="Screw.Inventory/Category" preserve="nothing" serialized="true" />
+    <type fullname="Screw.Inventory/Product" preserve="nothing" serialized="true" />
+    <type fullname="Screw.Inventory/SubscriptionPeriod" preserve="nothing" serialized="true" />
+    <type fullname="Screw.KeyedValueSelector" preserve="nothing" serialized="true" />
+    <type fullname="Screw.LocaleEntry" preserve="nothing" serialized="true" />
+    <type fullname="Screw.LocaleResource/Category" preserve="nothing" serialized="true" />
     <type fullname="Screw.Localizable/Target" preserve="nothing" serialized="true" />
+    <type fullname="Screw.LocalizableModifier/Modifier" preserve="nothing" serialized="true" />
+    <type fullname="Screw.OfferTokenProvider/TokenValue" preserve="nothing" serialized="true" />
+    <type fullname="Screw.OfferTokenSelector" preserve="nothing" serialized="true" />
+    <type fullname="Screw.RewardCounter" preserve="nothing" serialized="true" />
+    <type fullname="Screw.ShopRvDiamondReward" preserve="nothing" serialized="true" />
+    <type fullname="Screw.SplitTest/Value" preserve="nothing" serialized="true" />
+    <type fullname="Screw.SplitTest/Values" preserve="nothing" serialized="true" />
+    <type fullname="Screw.SplitTest/Variant" preserve="nothing" serialized="true" />
     <type fullname="Screw.StateSwitcher/Binder" preserve="nothing" serialized="true" />
     <type fullname="Screw.StateSwitcher/State" preserve="nothing" serialized="true" />
-    <type fullname="WilliamExtra.Pathing.LinearPath" preserve="nothing" serialized="true" />
+    <type fullname="Screw.StoreParameters/BonusParameterAssigner" preserve="nothing" serialized="true" />
+    <type fullname="Screw.StoreParameters/ProductParamActivator" preserve="nothing" serialized="true" />
+    <type fullname="Screw.SubviewHolder" preserve="nothing" serialized="true" />
+    <type fullname="Screw.Switcher/Binder" preserve="nothing" serialized="true" />
+    <type fullname="Screw.TimeFormatter/Component" preserve="nothing" serialized="true" />
+    <type fullname="Screw.TimeSpanPicker" preserve="nothing" serialized="true" />
+    <type fullname="Screw.ValueCondition" preserve="nothing" serialized="true" />
+    <type fullname="Screw.ValueOperator" preserve="nothing" serialized="true" />
+    <type fullname="SecuredDouble" preserve="nothing" serialized="true" />
+    <type fullname="SecuredInt" preserve="nothing" serialized="true" />
+    <type fullname="ShopConfig/Item" preserve="nothing" serialized="true" />
+    <type fullname="SocialNoticeVisual" preserve="nothing" serialized="true" />
+    <type fullname="SpecialDelivery.GiftBox/LevelRewardMileStone" preserve="nothing" serialized="true" />
+    <type fullname="SpecialDelivery.GiftBoxOpener/OpeningRequirement" preserve="nothing" serialized="true" />
+    <type fullname="StackStorageGroup/ConstructionDataFinder" preserve="nothing" serialized="true" />
+    <type fullname="StackStorageGroup/IndoorDataFinder" preserve="nothing" serialized="true" />
+    <type fullname="SupervisorFinder/Finder" preserve="nothing" serialized="true" />
+    <type fullname="SupervisorFinder/SpecificFinder" preserve="nothing" serialized="true" />
+    <type fullname="SupervisorMissionPlan/PlanConfig" preserve="nothing" serialized="true" />
+    <type fullname="TutorialPhase/PhaseUEvent" preserve="nothing" serialized="true" />
+    <type fullname="TutorialPhase/UEvents" preserve="nothing" serialized="true" />
+    <type fullname="TutorialPhaseSpeechAlternate/Alt" preserve="nothing" serialized="true" />
+    <type fullname="TutorialPhaseView/PhaseEvent" preserve="nothing" serialized="true" />
+    <type fullname="TutorialStep/StepPhaseUEvent" preserve="nothing" serialized="true" />
+    <type fullname="TutorialStep/StepUEvent" preserve="nothing" serialized="true" />
+    <type fullname="TutorialStep/UEvents" preserve="nothing" serialized="true" />
+    <type fullname="TutorialStepView/StepEvent" preserve="nothing" serialized="true" />
+    <type fullname="TutorialStepView/StepEvent2" preserve="nothing" serialized="true" />
+    <type fullname="TutorialText" preserve="nothing" serialized="true" />
+    <type fullname="ValueBindingCSO/Entry_ToScrew" preserve="nothing" serialized="true" />
+    <type fullname="ValueDictionaryCSO/AssetEntry" preserve="nothing" serialized="true" />
+    <type fullname="VillageShop/ConfigBase" preserve="nothing" serialized="true" />
+    <type fullname="VillageStatueVisual/ConfigBase" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.AGroupee/ConfigBase" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.AGroupee/GroupeeEvent" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.AGrouper/ConfigBase" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.AGrouper/GrouperEvent" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.ActionSequence.ActionSequencee/UEvents" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.BoolEvent" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.BoolTrigger/ConfigEvents" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.ColorEvent" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.Composition.ComposableViewChilding" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.Composition.ConditionGroupEntry" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.Composition.DynamicStringEntry" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.Composition.FormulaCalculatorCSO/Entry" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.DataArchitecture.Converter" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.DataArchitecture.ParamBundle" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.DataArchitecture.ReflectionTarget" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.DataArchitecture.SetRule" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.DataArchitecture.SingleReflectionTarget" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.DelayRunner/Events" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.DelayRunner/WaitEntry" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.DoubleEvent" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.EnumTrigger/Entry" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.FloatEvent" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.Idle.IncrementNumber" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.Idle.StepNumber" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.Idle.StepNumber/Step" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.IntEvent" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.LongEvent" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.MonoAnim.AMonoAnim/ConfigBase" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.MonoAnim.AMonoAnim/ConfigEvent" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.MonoAnim.AMonoTransformAnim/SharedTransformConfig" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.MonoAnim.AMonoTweenAnim/ConfigEase" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.MonoAnim.AMonoTweenAnim/ConfigTween" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.MonoAnim.MonoGraphicFader/GraphicFadeConfig" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.NumberGrouper/ConfigNumber" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.NumberTransformer/ConfigEvents" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.NumberTransformer/Transformation" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.OnUpdateStage/UpdateEvent" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.OnUpdateStage_IntervalWithDelay/UpdateEvent" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.Pathing.LinearPath" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.Pathing.SimplePathMover/PathMoveParams" preserve="nothing" serialized="true" />
-    <type fullname="Bool3" preserve="nothing" serialized="true" />
-    <type fullname="ConstructionPartView/ConfigEvents" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.RangeFloat" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.RangeInteger" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.SimpleBoolTrigger/ConfigEvents" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.StringEvent" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.TextBuilder_V1/ConfigBase" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.TextBuilder_V1/ConfigEvents" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.TextBuilder_V1/PieceColor" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.TextBuilder_V1/PieceValueStatic" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.Times.TimeIntervalPicker" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.Times.TimePicker" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.Times.TimeSpanPicker" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.TransformConstrainer/Constraint" preserve="nothing" serialized="true" />
+    <type fullname="WorldGameEvent/ConfigGamePass" preserve="nothing" serialized="true" />
+    <type fullname="WorldGameEvent/EventInfo" preserve="nothing" serialized="true" />
+    <type fullname="WorldMissionPlan/PlanConfig" preserve="nothing" serialized="true" />
+    <type fullname="WorldSelector" preserve="nothing" serialized="true" />
+    <type fullname="WorldShop/SectionEntry" preserve="nothing" serialized="true" />
+    <type fullname="XmasGiftBox/ChanceRewardEntry" preserve="nothing" serialized="true" />
+    <type fullname="XmasGiftBox/LevelEntry" preserve="nothing" serialized="true" />
+    <type fullname="XmasGiftBox/OpenCountEntry" preserve="nothing" serialized="true" />
+    <type fullname="XmasTreeEvolutions/Evolution" preserve="nothing" serialized="true" />
+    <type fullname="BlueprintPieceList/SizeMapItem" preserve="nothing" serialized="true" />
+    <type fullname="ChestOpener/ChestRoot" preserve="nothing" serialized="true" />
     <type fullname="ConstructionView/ConfigEvents" preserve="nothing" serialized="true" />
-    <type fullname="FloatEvent" preserve="nothing" serialized="true" />
-    <type fullname="Sieunguoimay.UnityEvent_Bool" preserve="nothing" serialized="true" />
-    <type fullname="WilliamExtra.ActionSequence.ActionSequencee/UEvents" preserve="nothing" serialized="true" />
+    <type fullname="DecorVariantOverriderByTheme/Variant" preserve="nothing" serialized="true" />
+    <type fullname="FixedBoolsCombiner/BoolEntry" preserve="nothing" serialized="true" />
+    <type fullname="GenericEnumTrigger`1/Entry`1[RewardType,RewardType]" preserve="nothing" serialized="true" />
+    <type fullname="MachineEvolveSplitTestData/MachineEvolveConfigItem" preserve="nothing" serialized="true" />
+    <type fullname="MachineEvolveSplitTestData/MachineEvolveConfigVariant" preserve="nothing" serialized="true" />
+    <type fullname="Mission2ManagerView_SetInjector/Entry" preserve="nothing" serialized="true" />
+    <type fullname="PrefabBindingSpawner/TransformConfig" preserve="nothing" serialized="true" />
+    <type fullname="RectTransformConstrainer/BoundConfig" preserve="nothing" serialized="true" />
+    <type fullname="RectTransformConstrainer/Direction" preserve="nothing" serialized="true" />
+    <type fullname="RippleButtonHoldAccelerator/Accel" preserve="nothing" serialized="true" />
+    <type fullname="Screw.Idle.PowerUpSelector" preserve="nothing" serialized="true" />
+    <type fullname="Screw.NumberFormatter/FormatEntry" preserve="nothing" serialized="true" />
+    <type fullname="Screw.NumberFormatter/ValueEntry" preserve="nothing" serialized="true" />
+    <type fullname="Screw.PurchaseListener/PurchaseEvent" preserve="nothing" serialized="true" />
+    <type fullname="Screw.ReviewTrigger/ReviewCondition" preserve="nothing" serialized="true" />
+    <type fullname="Screw.SimpleSpendingMono/SpendEvent_Fail" preserve="nothing" serialized="true" />
+    <type fullname="Screw.SimpleSpendingMono/SpendEvent_Success" preserve="nothing" serialized="true" />
+    <type fullname="Screw.SplitTestSelector" preserve="nothing" serialized="true" />
+    <type fullname="ScriptableValueTrigger/Value" preserve="nothing" serialized="true" />
+    <type fullname="Sieunguoimay.Core.UnityEvent_Bool" preserve="nothing" serialized="true" />
+    <type fullname="Sieunguoimay.Core.UnityEvent_Int" preserve="nothing" serialized="true" />
+    <type fullname="SupervisorDetailsView/LegendTypeTag" preserve="nothing" serialized="true" />
+    <type fullname="SupervisorDetailsView/SupTypeTag" preserve="nothing" serialized="true" />
+    <type fullname="UIValueTrigger/Provider" preserve="nothing" serialized="true" />
+    <type fullname="VehicleAutomateSplitTestData/ConfigVariant" preserve="nothing" serialized="true" />
+    <type fullname="VehicleAutomateSplitTestData/VehicleAutomateLevelConfig" preserve="nothing" serialized="true" />
+    <type fullname="VideoListener/Listener" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.MonoAnim.MonoCanvasGroupFader/CGFadeConfig" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.MonoAnim.MonoColorRun/ColorRunConfig" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.MonoAnim.MonoColorRun/ColorRunEvent" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.MonoAnim.MonoPunch/PunchConfig" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.NumberCompareTrigger/ConfigEvents" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.ObjectEvent" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.SimpleSpawner/ConfigBase" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.SimpleSpawner/ConfigEvents" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.SimpleTrigger/ConfigEvents" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.TextBuilderOverrider/ConfigBase" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.UI.UITabListener/Events" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.UI.UITabListener/StringEvent" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.Vector2Event" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.Vector3Event" preserve="nothing" serialized="true" />
+    <type fullname="WorkerAvatarRnd/Entry" preserve="nothing" serialized="true" />
+    <type fullname="ConstructionPartView/ConfigEvents" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.AnimationClipEventTeller/FloatEvent" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.AnimationClipEventTeller/IntEvent" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.AnimationClipEventTeller/ObjectEvent" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.AnimationClipEventTeller/StringEvent" preserve="nothing" serialized="true" />
-    <type fullname="WilliamExtra.BoolEvent" preserve="nothing" serialized="true" />
-    <type fullname="WilliamExtra.DataArchitecture.ReflectionTarget" preserve="nothing" serialized="true" />
-    <type fullname="WilliamExtra.OnUpdateStage/UpdateEvent" preserve="nothing" serialized="true" />
-    <type fullname="WilliamExtra.RangeFloat" preserve="nothing" serialized="true" />
-    <type fullname="WilliamExtra.StringEvent" preserve="nothing" serialized="true" />
     <type fullname="WilliamExtra.StringTrigger/ConfigEvents" preserve="nothing" serialized="true" />
-    <type fullname="WorkerAvatarRnd/Entry" preserve="nothing" serialized="true" />
-    <type fullname="WilliamExtra.BoolTrigger/ConfigEvents" preserve="nothing" serialized="true" />
-    <type fullname="WilliamExtra.TransformChangePasser/BoolEvent" preserve="nothing" serialized="true" />
+    <type fullname="DecorHatSetter/DecorVariant" preserve="nothing" serialized="true" />
+    <type fullname="MedievalHorseLead/LeadConfig" preserve="nothing" serialized="true" />
+    <type fullname="WilliamExtra.PositionChangePasser/ConfigEvents" preserve="nothing" serialized="true" />
+    <type fullname="MiniGame.MathRunner.Gameplay.RandomItem" preserve="nothing" serialized="true" />
+    <type fullname="MiniGame.MathRunner.Gameplay.RoadGroup" preserve="nothing" serialized="true" />
+    <type fullname="MiniGame.MathRunner.Gameplay.RoadType" preserve="nothing" serialized="true" />
+    <type fullname="MiniGame.MathRunner.ScoreToVisualMapper/MapEntry" preserve="nothing" serialized="true" />
+    <type fullname="MiniGame.WoodCutting.ScoreStep" preserve="nothing" serialized="true" />
+    <type fullname="MiniGame.WoodCutting.TargetScore" preserve="nothing" serialized="true" />
+    <type fullname="HalloweenDecorMapper/Item" preserve="nothing" serialized="true" />
+    <type fullname="HalloweenDecorMapper/MapItem" preserve="nothing" serialized="true" />
+    <type fullname="LittleGhostCurrencyCollector/CollectConfig" preserve="nothing" serialized="true" />
+    <type fullname="Sieunguoimay.Reflection.DataBinder.PathSelector" preserve="nothing" serialized="true" />
+    <type fullname="Sieunguoimay.Reflection.DataBinder.SerializableTypeWrapper" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="LeanGUI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Lean.Gui.LeanJoystick" preserve="all" />
+    <type fullname="Lean.Gui.LeanJoystick/Vector2Event" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="LeanTouch, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Lean.Touch.LeanFingerUpdate" preserve="all" />
+    <type fullname="Lean.Touch.LeanSelectable" preserve="all" />
+    <type fullname="Lean.Touch.LeanTouch" preserve="all" />
+    <type fullname="Lean.Touch.LeanFingerUpdate/FloatEvent" preserve="nothing" serialized="true" />
+    <type fullname="Lean.Touch.LeanFingerUpdate/LeanFingerEvent" preserve="nothing" serialized="true" />
+    <type fullname="Lean.Touch.LeanFingerUpdate/Vector2Event" preserve="nothing" serialized="true" />
+    <type fullname="Lean.Touch.LeanFingerUpdate/Vector3Event" preserve="nothing" serialized="true" />
+    <type fullname="Lean.Touch.LeanFingerUpdate/Vector3Vector3Event" preserve="nothing" serialized="true" />
+    <type fullname="Lean.Touch.LeanScreenDepth" preserve="nothing" serialized="true" />
+    <type fullname="Lean.Touch.LeanSelectable/LeanFingerEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="LeanTransition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Lean.Transition.Method.LeanTransformLocalRotation" preserve="all" />
+    <type fullname="Lean.Transition.Method.LeanTransformLocalRotation/State" preserve="nothing" serialized="true" />
+    <type fullname="Lean.Transition.LeanPlayer" preserve="nothing" serialized="true" />
+    <type fullname="Lean.Transition.LeanPlayer/Entry" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="LunarConsole, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="LunarConsolePlugin.LunarConsole" preserve="all" />
+    <type fullname="LunarConsolePlugin.ExceptionWarningSettings" preserve="nothing" serialized="true" />
+    <type fullname="LunarConsolePlugin.LogEntryColors" preserve="nothing" serialized="true" />
+    <type fullname="LunarConsolePlugin.LogOverlayColors" preserve="nothing" serialized="true" />
+    <type fullname="LunarConsolePlugin.LogOverlaySettings" preserve="nothing" serialized="true" />
+    <type fullname="LunarConsolePlugin.LunarConsoleSettings" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="PathCreator, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="PathCreation.PathCreator" preserve="all" />
+    <type fullname="PathCreation.BezierPath" preserve="nothing" serialized="true" />
+    <type fullname="PathCreation.PathCreatorData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="spine-unity, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Spine.Unity.SkeletonDataAsset" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonGraphic" preserve="all" />
+    <type fullname="Spine.Unity.SpineAtlasAsset" preserve="all" />
+    <type fullname="Spine.Unity.BlendModeMaterials" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.MeshGenerator" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.MeshGenerator/Settings" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReference" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
@@ -188,7 +1970,10 @@
   </assembly>
   <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="TMPro.TextMeshPro" preserve="all" />
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_Dropdown" preserve="all" />
     <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TMP_InputField" preserve="all" />
     <type fullname="TMPro.TMP_SpriteAsset" preserve="all" />
     <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
     <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
@@ -196,9 +1981,35 @@
     <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/DropdownEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionData" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionDataList" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Timeline, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Timeline.AnimationPlayableAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.AnimationTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.ControlPlayableAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.ControlTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.GroupTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.MarkerTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.SignalAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.SignalReceiver" preserve="all" />
+    <type fullname="UnityEngine.Timeline.TimelineAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.MarkerList" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.TimelineAsset/EditorSettings" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.SignalReceiver/EventKeyValue" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.TimelineClip" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.AnimationClip" preserve="all" />
@@ -208,10 +2019,16 @@
     <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
     <type fullname="UnityEngine.AudioSource" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.Cubemap" preserve="all" />
     <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
     <type fullname="UnityEngine.LineRenderer" preserve="all" />
     <type fullname="UnityEngine.Material" preserve="all" />
     <type fullname="UnityEngine.Mesh" preserve="all" />
@@ -220,35 +2037,101 @@
     <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.TrailRenderer" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
     <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
     <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[BoardGame.RollDice.RollDiceBoardGameManager/RollType]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[IAction]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.Double]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[UnityEngine.RectTransform]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[CIAPPurchaseListener,Screw.Inventory/Product]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[System.Double,System.Boolean]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[UnityEngine.Transform]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.ExposedReference`1[UnityEngine.GameObject]" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.DirectorModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Playables.PlayableDirector" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.ParticleSystem" preserve="all" />
     <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystem/MinMaxGradient" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Font" preserve="all" />
   </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Dropdown" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.InputField" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Shadow" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Dropdown/DropdownEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Dropdown/OptionData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Dropdown/OptionDataList" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+  </assembly>
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.Purchasing.Stores">
+    <type fullname="UnityEngine.Purchasing.StoreID" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.TextCoreFontEngineModule">
     <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
-  </assembly>
-  <assembly fullname="UnityEngine.UI">
-    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
   </assembly>
 </linker>
